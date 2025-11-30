@@ -15,8 +15,8 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7932754,
-    -122.3963589
+    "Selves and Sky-flowers: Kum\u0101rila Bha\u1e6d\u1e6da on Metaphor and Nonexistents<br />University of Oxford, Workshop in Ancient Philosophy; Oxford, UK",
+    51.7520131,
+    -1.2578499
   ]
 ];
