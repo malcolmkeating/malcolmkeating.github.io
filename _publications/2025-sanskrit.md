@@ -1,7 +1,7 @@
 ---
 title: "Classical Sanskrit for Everyone: A Guide for Absolute Beginners"
 collection: publications
-category: mbooks
+category: manuscripts
 permalink: /publication/2025-sanskrit
 date: 2025
 venue: Hackett Publishing
