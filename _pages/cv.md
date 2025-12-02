@@ -36,16 +36,16 @@ Skills
 ======
 * Copyediting, developmental editing, project management, teaching, public speaking, basic Spanish, advanced Sanskrit
 
-* Tools
+Tools
 ======
 * MS Word, MS Excel, Visual Basic for Applications (VBA) in Word and Excel, LaTeX, BibTeX, Zotero citation manager
 
-* Certifications and Coursework
+Certifications and Coursework
 ======
 * Copyediting Certificate, UC San Diego Division of Extended Studies (in progress)
 * Introduction to Python 3 Programming, Utah Valley University
 
-* Academic work experience
+Academic work experience
 ======
 * August 2025–present: Associate Professor of Philosophy, Smith College, USA
 * August 2025–December 2025: Leverhulme Visiting Professor, University of Glasgow (August 2025–December 2025)
