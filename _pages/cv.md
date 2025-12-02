@@ -25,21 +25,32 @@ Academic work experience
   
 Editing experience
 ======
-* Series Editor, Bloomsbury Academic
-* Book Review Editor, Philosophy East and West 
-* Copyeditor (subcontractor), Flatpage editorial agency
+* Series Editor, Bloomsbury Academic (July 2023 – present)
+  * Led an editorial board in the process of guiding academic submissions to a four-volume book series from initial draft to final form.
+  * Worked with academic authors to revise and refine their submissions, ensuring their contributions met publisher house style and conveyed abstruse philosophical ideas from Asian philosophy in intelligible ways, accessible to undergraduate readers.
+  * Managed the process of developing a four-volume book series, creating an initial call for submissions, reviewing submissions with subject-matter experts, determining a project timeline in collaboration with publishers, and preparing manuscripts for submission. 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Book Review Editor, Philosophy East and West (May 2020 – August 2023)
+  * In collaboration with journal publisher and editorial team, solicited new book reviews for inclusion in the journal, increasing the number and frequency of reviews published for South Asian philosophy.
+  * Worked closely with book review authors to revise initial contributions, improving argumentation, clarity, and structure.
+  * Performed close copyediting passes prior to submission to editorial team to ensure consistency with house style.
+  * Frequently worked with non-native speakers of English to ensure idiomaticity of language and clarity of thought without losing authorial voice.
+
+* Copyeditor (subcontractor), Flatpage editorial agency (July 2023 – November 2023)
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Book Editor, Routledge, Bloomsbury Academic
+
+# Publications
+# ======
+#  <ul>{% for post in site.publications reversed %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
+  
+# Talks
+# ======
+#  <ul>{% for post in site.talks reversed %}
+#    {% include archive-single-talk-cv.html  %}
+#  {% endfor %}</ul>
   
 Teaching
 ======
