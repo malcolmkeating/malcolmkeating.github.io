@@ -11,35 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Philosophy. University of Texas at Austin (2008–2015)
+* M.A. Philosophy. University of Missouri – St. Louis (2004–2006)
+* B.A. English and Spanish, double major. Grove City College (1996–2000)
 
-Work experience
+Academic work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2025–present: Associate Professor of Philosophy, Smith College, USA
+* August 2025–Decembe 2025: Leverhulme Visiting Professor, University of Glasgow (August 2025–December 2025)
+* January 2024–July 2024: Visiting Associate Professor of Philosophy, Smith College, USA, 
+* June 2022–February 2024: Associate Professor of Philosophy, Yale-NUS College, Singapore
+* June 2015–June 2022: Assistant Professor of Philosophy, Yale-NUS College, Singapore
   
-Skills
+Editing experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Series Editor, Bloomsbury Academic
+* Book Review Editor, Philosophy East and West 
+* Copyeditor (subcontractor), Flatpage editorial agency
 
 Publications
 ======
