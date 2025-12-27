@@ -14,6 +14,7 @@
 #  - title: "Talks"
 #    url: /talks/    
 
+# including only teaching, editing, blog, and CV
   - title: "Teaching"
     url: /teaching/    
     
