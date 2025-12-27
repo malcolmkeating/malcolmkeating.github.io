@@ -68,8 +68,7 @@ Buddhists and brahmanical thinkers were frequently philosophically at odds with 
 **PHI 262: Meaning and Truth (scheduled, subject to change)**
 This course is an introduction to central topics in the philosophy of language. What is the relation between thought, language and reality? What kinds of things do we do with words? Is there anything significant about the definite article "the"? How does meaning accrue to proper names? Is speaker meaning the same as the public, conventional (semantic) meaning of words? Is there a distinction between metaphorical and literal language? We explore some of the answers that philosophers like Frege, Russell, Strawson, Donnellan, Austin, Quine, Kripke and Davidson have offered to these and other related questions. Prerequisite: PHI 101, PHI 102 or equivalent
 
-### Spring 2027
-
+### Spring 2027 (scheduled, subject to change)
 **PHI 233: Aesthetics and Philosophy of Art**
 This course focuses on two overlapping clusters of philosophical questions. We consider aesthetic problems like: What is beauty? How do we experience it, and where—in nature, in art, in ordinary objects and activities? Are there objective standards for aesthetic judgments? In philosophy of art, we consider problems like: What makes something a work of art? What is art for? Do artists have moral responsibilities and can art cultivate our moral sensibilities? Readings will be from worldwide philosophical traditions. Assignments will involve extensive use of the resources of the Smith College Museum of Art.
 
