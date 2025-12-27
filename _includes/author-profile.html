@@ -56,6 +56,9 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
       {% endif %}
+      {% if author.philpapers %}
+        <li><a href="{{ author.philpapers }}"><i class="ai ai-philpapers ai-fw icon-pad-right" aria-hidden="true"></i>PhilPapers</a></li>
+      {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
       {% endif %}                        
