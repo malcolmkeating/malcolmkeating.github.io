@@ -14,7 +14,7 @@ I'm Associate Professor of Philosophy at [Smith College](https://www.smith.edu/)
 
 I have a **blog** that I update now and again and a **[podcast](https://malcolmkeating.github.io/podcasts/)** that I hope to revive someday. The blog is mostly about Indian philosophy and technical/editing topics.
 
-I'm also a **freelance editor**, with a copyediting certificate underway from [UC San Diego Extended Studies](https://extendedstudies.ucsd.edu/courses-certificates/writing/copyediting). If you're interested in working with me, see my **editing page**.
+I'm also a **freelance editor**, with a copyediting certificate underway from [UC San Diego Extended Studies](https://extendedstudies.ucsd.edu/courses-certificates/writing/copyediting). If you're interested in working with me, see my **[editing page](https://malcolmkeating.github.io/editing/)**.
 
 In my spare time, I enjoy running, hiking, [photography](https://www.flickr.com/photos/c_malcolm/), and spending time with my partner, also a [philosopher](https://sites.google.com/site/laurapaceguerrero).
 
