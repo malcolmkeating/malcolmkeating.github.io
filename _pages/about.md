@@ -10,7 +10,7 @@ redirect_from:
 
 I'm Associate Professor of Philosophy at [Smith College](https://www.smith.edu/), Northampton, MA, USA. My research focuses on premodern philosophy in the Indian subcontinent. I think along with early Nyāya and Mīmāṃsā philosophers about philosophy of language, epistemology, and argumentation. You can see my [academic CV](https://malcolmkeating.github.io/cv/) or go to my [PhilPapers](https://philpeople.org/profiles/malcolm-keating) profile for more about my work.
 
-**Smith students**, use this link to make an appointment, request letters of recommendation, and more.
+**Smith students**, use this [page](https://malcolmkeating.github.io/teaching/) to make an appointment, request letters of recommendation, and find out which courses I'm teaching.
 
 I have a **blog** that I update now and again and a **podcast** that I hope to revive someday. The blog is mostly about Indian philosophy and technical/editing topics.
 
