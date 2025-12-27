@@ -11,13 +11,13 @@ Maybe you're an academic or nonfiction writer looking for an analytical editor. 
 
 I work with writers like you to ensure your work is grammatically correct and polished. I focus on the details that journals and publishers care about, and I read with an eye for argumentative rigor that academics care about. And importantly, I ensure that your work sounds like *you*, not a machine.
 
-Not only do I have professional editing experience and training but I'm also an academic. I've worked on everything from blog posts and book reviews to journal articles, edited collections, and monographs. I have experience helping non-native English speakers polish their writing—without losing their authentic voices from teaching in the multingual context of Singapore and working with academics throughout the world.
+Not only do I have professional editing experience and training but I'm also an academic. I've worked on everything from blog posts and book reviews to journal articles, edited collections, and monographs. I have experience helping non-native English speakers polish their writing—without losing their authentic voices.
 
 #### Qualifications ####
 + Copyediting certificate in progress with UC San Diego Extended Studies
 + Extensive editorial experience with academic articles and books
 + PhD in philosophy, focusing on language
-+ Experience with foreign languages and diacritical marks 
++ Experience with foreign languages and diacritical marks
 + See my [editing résumé](https://malcolmkeating.github.io/editing-resume/) for more details
 
 #### Services ####
