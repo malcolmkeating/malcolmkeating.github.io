@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
   
-Editing experience
-======
 * Copyeditor, APA Blog (January 2026 – present)
   * Edited blog posts for American Philosophical Association WordPress blog for clarity, correctness, and cohesiveness.
   * Responsible for scheduling blog posts using Oasis Workflow plugin.
