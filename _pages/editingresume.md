@@ -8,15 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Education
-======
-* Ph.D Philosophy. University of Texas at Austin (2008–2015)
-* M.A. Philosophy. University of Missouri – St. Louis (2004–2006)
-* B.A. English and Spanish, double major. Grove City College (1996–2000)
   
 Editing experience
 ======
+* Copyeditor, APA Blog (January 2026 – present)
+  * Edited blog posts for American Philosophical Association WordPress blog for clarity, correctness, and cohesiveness.
+  * Responsible for scheduling blog posts using Oasis Workflow plugin.
+
 * Series Editor, Bloomsbury Academic (July 2023 – present)
   * Led an editorial board in the process of guiding academic submissions to a four-volume book series from initial draft to final form.
   * Worked with academic authors to revise and refine their submissions, ensuring their contributions met publisher house style and conveyed abstruse philosophical ideas from Asian philosophy in intelligible ways, accessible to undergraduate readers.
@@ -29,16 +27,33 @@ Editing experience
   * Frequently worked with non-native speakers of English to ensure idiomaticity of language and clarity of thought without losing authorial voice.
 
 * Copyeditor (subcontractor), Flatpage editorial agency (July 2023 – November 2023)
+  * Edited academic book projects as part of a subcontracting team, querying issues for publishers when necessary.
+  * Projects included editing citation styles for legal texts and editing Bloomberg Connects mobile app content for art museusms.
   
 * Book Editor, Routledge, Bloomsbury Academic
+  * Coedited festschrift volume collecting academic essays in tribute of a senior philosopher.
+  * Responsible for initial invitations, developmental and copyediting stages prior to submission to editorial team.
 
 Skills
 ======
-* Copyediting, developmental editing, project management, teaching, public speaking, basic Spanish, advanced Sanskrit
+
+### Editing ###
+* Copyediting, developmental editing, project management
+
+### Languages ###
+* English (native), Spanish (basic conversation), Sanskrit (advanced)
+* Markdown (basic competence)
+* Python 3 (basic competence)
 
 Tools
 ======
-* MS Word, MS Excel, Visual Basic for Applications (VBA) in Word and Excel, LaTeX, BibTeX, Zotero citation manager
+### Word Processing and Editing ###
+* MS Word, LaTeX
+* Zotero citation manager, BibTeX
+
+### Other Technical Tools ###
+* Visual Basic for Applications (VBA)
+* WordPress
 
 Certifications and Coursework
 ======
