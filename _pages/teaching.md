@@ -4,7 +4,7 @@ title: "Teaching"
 author_profile: true
 ---
 
-Current and past students, use this page for information about appointments, current and future classes, and recommendations letters.
+Current and past students, use this page for information about appointments, course information, and recommendation letters.
 
 **Table of Contents**
 * toc
