@@ -1,5 +1,5 @@
 ---
-permalink: /non-menu-page/
+permalink: /teaching/
 title: "Teaching"
 author_profile: true
 ---
