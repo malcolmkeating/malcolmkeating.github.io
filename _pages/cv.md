@@ -25,28 +25,22 @@ Associate Professor of Philosophy, Smith College, USA, August
 
 ### Previous Academic Positions
 
-Leverhulme Visiting Professor, University of Glasgow, August
++ Leverhulme Visiting Professor, University of Glasgow, August
 2025–December 2025
-
-Visiting Associate Professor of Philosophy, Smith College, USA, January
++ Visiting Associate Professor of Philosophy, Smith College, USA, January
 2024–July 2024
-
-Associate Professor of Philosophy, Yale-NUS College, Singapore, June
++ Associate Professor of Philosophy, Yale-NUS College, Singapore, June
 2022–February 2024
-
-Assistant Professor of Philosophy, Yale-NUS College, Singapore, June
++ Assistant Professor of Philosophy, Yale-NUS College, Singapore, June
 2015–June 2022
-
-Courtesy Joint Appointment, Philosophy, National University of
++ Courtesy Joint Appointment, Philosophy, National University of
 Singapore, June 2016–February 2024
 
 ### Education
 
-Ph.D., Philosophy. University of Texas at Austin (2008–2015)
-
-M.A., Philosophy. University of Missouri – St. Louis (2004–2006)
-
-B.A., English/Spanish. Grove City College (1996–2000)
++ Ph.D., Philosophy. University of Texas at Austin (2008–2015)
++ M.A., Philosophy. University of Missouri – St. Louis (2004–2006)
++ B.A., English/Spanish. Grove City College (1996–2000)
 
 ### Areas of Specialization
 
@@ -77,8 +71,6 @@ Essays Engaging with Stephen Phillips*. Routledge.
 
 2020\. *Controversial Reasoning in Indian Philosophy*: *Major Texts and
 Arguments on Arthâpatti*. Bloomsbury Academic Publishing.
-
-#### 
 
 #### Peer-reviewed Articles
 
@@ -466,80 +458,59 @@ Indian Philosophy: Across Traditions and World-Views." Panel Organizer
 and Chair. For the APA Committee on Asian and Asian-American
 Philosophers and Philosophies.
 
-#### Teaching Experience
+### Teaching Experience
 
 #### Smith College
 
-PHI 127: Introduction to Indian Philosophy
-
-PHI 233: Aesthetics and Philosophy of Art
-
-PHI 253: Topics in Indian Philosophy: Buddhists and Brahmins
-
-PHI 258: Topics in Philosophy of Language: Metaphor
-
-PHI 320: Fiction
-
-#### 
++ PHI 127: Introduction to Indian Philosophy
++ PHI 233: Aesthetics and Philosophy of Art
++ PHI 253: Topics in Indian Philosophy: Buddhists and Brahmins
++ PHI 258: Topics in Philosophy of Language: Metaphor
++ PHI 320: Fiction
 
 #### Yale-NUS College
 
 *Undergraduate courses*
 
-YCC 1113, 1114: Philosophy and Political Thought 1 & 2
-
-YHU 2315: Classical Indian Philosophy
-
-YHU 3261: Analogical Reasoning & Metaphor
-
-YHU 3350: Buddhists and Brahmins\
-YHU 3267: Classical Indian Philosophy of Language\
-YHU 3297: Debate & Reasoning in Indian Philosophy
-
-YHU 3372: Global Theories of Metaphor\
-YHU 3330: Hinduism, Nationalism, and the *Bhagavad Gītā* in the 20th
++ YCC 1113, 1114: Philosophy and Political Thought 1 & 2
++ YHU 2315: Classical Indian Philosophy
++ YHU 3261: Analogical Reasoning & Metaphor
++ YHU 3350: Buddhists and Brahmins
++ YHU 3267: Classical Indian Philosophy of Language
++ YHU 3297: Debate & Reasoning in Indian Philosophy
++ YHU 3372: Global Theories of Metaphor
++ YHU 3330: Hinduism, Nationalism, and the *Bhagavad Gītā* in the 20th
 Century
-
-YHU 3350: Slurs, Insults, and Hate Speech[\]{.underline}
-YHU 4219: Doing Things with Words\
-YHU 4103: Philosophy Capstone Seminar
++ YHU 3350: Slurs, Insults, and Hate Speech
++ YHU 4219: Doing Things with Words
++ YHU 4103: Philosophy Capstone Seminar
 
 *Independent studies*
 
-Introduction to Sanskrit Language
-
-Introduction to Analytic Philosophy of Language
-
-Fiction and Fictionalisms
-
-Vasubandhu\'s *Triṃśikā* or *Thirty Verses (on Consciousness-Only)*
-
-Readings in Sanskrit
++ Introduction to Sanskrit Language
++ Introduction to Analytic Philosophy of Language
++ Fiction and Fictionalisms
++ Vasubandhu\'s *Triṃśikā* or *Thirty Verses (on Consciousness-Only)*
++ Readings in Sanskrit
 
 #### Other Institutions
 
-World Philosophy (University of Texas at Austin, Assistant Instructor,
++ World Philosophy (University of Texas at Austin, Assistant Instructor,
 2014)
-
-Introduction to Philosophy (University of Texas at Austin, Assistant
++ Introduction to Philosophy (University of Texas at Austin, Assistant
 Instructor, 2014)
-
-Moral Reasoning (St. Edward's University, Adjunct Instructor, 2015)
-
-Online Introduction to Philosophy (City Colleges of Chicago, Adjunct
++ Moral Reasoning (St. Edward's University, Adjunct Instructor, 2015)
++ Online Introduction to Philosophy (City Colleges of Chicago, Adjunct
 Instructor, 2008)
-
-Online Logic (Elgin Community College, Adjunct Instructor, 2007)
-
-World Religions (Forest Park Community College, Adjunct Instructor,
++ Online Logic (Elgin Community College, Adjunct Instructor, 2007)
++ World Religions (Forest Park Community College, Adjunct Instructor,
 2007)
 
 #### Other Teaching Experience
 
-Logic, Johns Hopkins University, CTY Summer Program (Los Angeles, CA)
++ Logic, Johns Hopkins University, CTY Summer Program (Los Angeles, CA)
 (2013, 2014)
-
-Sanskrit Language Tutor, Private (Austin, TX) (2010–2014)
++ Sanskrit Language Tutor, Private (Austin, TX) (2010–2014)
 
 #### Student Supervision
 
