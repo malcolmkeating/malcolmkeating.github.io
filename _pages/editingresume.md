@@ -44,11 +44,3 @@ Certifications and Coursework
 ======
 * Copyediting Certificate, UC San Diego Division of Extended Studies (in progress)
 * Introduction to Python 3 Programming, Utah Valley University
-
-Academic work experience
-======
-* August 2025–present: Associate Professor of Philosophy, Smith College, USA
-* August 2025–December 2025: Leverhulme Visiting Professor, University of Glasgow (August 2025–December 2025)
-* January 2024–July 2024: Visiting Associate Professor of Philosophy, Smith College, USA, 
-* June 2022–February 2024: Associate Professor of Philosophy, Yale-NUS College, Singapore
-* June 2015–June 2022: Assistant Professor of Philosophy, Yale-NUS College, Singapore
