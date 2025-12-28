@@ -9,12 +9,12 @@ redirect_from:
 
 ### Malcolm Keating
 
-<address>Philosophy Department
-Smith College
-Northampton, MA 01063
+<address>Philosophy Department\
+Smith College\
+Northampton, MA 01063\
 United States</address>
 
-Email: <a href=mailto:"mkeating@smith.edu">mkeating@smith.edu</a>\
+Email: <mkeating@smith.edu>
 [www.malcolmkeating.com](https://www.malcolmkeating.com)
 
 ### Current Academic Position
