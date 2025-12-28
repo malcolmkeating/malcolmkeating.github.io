@@ -38,9 +38,9 @@ Singapore, June 2016–February 2024
 
 ### Education
 
-+ Ph.D., Philosophy. University of Texas at Austin (2008–2015)
-+ M.A., Philosophy. University of Missouri – St. Louis (2004–2006)
-+ B.A., English/Spanish. Grove City College (1996–2000)
++ PhD, Philosophy. University of Texas at Austin (2008–2015)
++ MA, Philosophy. University of Missouri – St. Louis (2004–2006)
++ BA, English/Spanish. Grove City College (1996–2000)
 
 ### Areas of Specialization
 
