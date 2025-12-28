@@ -4,7 +4,7 @@ layout: archive
 permalink: /research/
 ---
 
-*toc
+* toc
 {:toc}
 
 ## Research in a nutshell ##
