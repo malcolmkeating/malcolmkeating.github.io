@@ -32,4 +32,6 @@ I specialize in academic editing for the humanities (e.g., art, classics, histor
 
 During summers, I work selectively with academic clients in need of copyediting or developmental editing. If you're interested in working with me, fill out a form with information about your project(s) and timeline.
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfKgqM07OHUJqGEv9bevsaGWNZeB8Ic3-GmiHt_Tb1hlzKQKQ/viewform?embedded=true" width="640" height="1974" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 Please note that I do not edit PhD dissertations.
