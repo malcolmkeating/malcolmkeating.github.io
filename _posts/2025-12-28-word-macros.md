@@ -5,7 +5,7 @@ permalink: /posts/2025/12/word-macros/
 tags:
   - editing
   - AI
-  - copyediteing
+  - copyediting
   - LLMs
   - macros
 ---
