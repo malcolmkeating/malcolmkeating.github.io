@@ -39,7 +39,7 @@ Skills
 * Copyediting, developmental editing, project management
 
 ### Languages (natural and programming)###
-* English (native), Spanish (basic conversation), Sanskrit (advanced)
+* English (native), Spanish (intermediate reading/speaking/writing), Sanskrit (advanced)
 * Markdown (basic competence)
 * Python 3 (basic competence)
 
