@@ -19,7 +19,7 @@ I'm especially interested in word meaning, extended and figurative meanings, and
 
 Philosophers working with Sanskrit sources sometimes compare the Mīmāṃsā philosopher Kumārila Bhaṭṭa to Aristotle. That's because he has a significant corpus of dense philosophical work influential for an entire tradition. His work in philosophy of language theorizes about the relationship between our experience of the world and our ability to think and talk about it. He has much to say about metaphorical meaning, the role of compositionality and context in sentence meaning, hermeneutic principles for textual interpretation, the epistemology of testimony, and more.
 
-This project involves several translations and journal articles, with the goal of a monograph setting out Kumārila's lexical semantics systematically. As part of this project, I am collaborating with [Bryan Pickel (University of Glasgow)](https://www.gla.ac.uk/schools/humanities/staff/bryanpickel/) on Kumārila's commitment to the principle of ompositionality.
+This project involves several translations and journal articles, with the goal of a monograph setting out Kumārila's lexical semantics systematically. As part of this project, I am collaborating with [Bryan Pickel (University of Glasgow)](https://www.gla.ac.uk/schools/humanities/staff/bryanpickel/) on Kumārila's commitment to the principle of compositionality.
 
 ### Book: *Buddhist Philosophy and Its Critics* ###
 
