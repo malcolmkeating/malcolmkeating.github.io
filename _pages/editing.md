@@ -5,11 +5,11 @@ permalink: /editing/
 ---
 ### About you ###
 
-Maybe you're an academic or nonfiction writer looking for an analytical editor. Maybe English is not your mother tongue, but you're expected to write in it. Maybe you've tried ChatGPT and AI editing help, but it flattens your voice and hallucinates citations.
+Maybe you're an academic or nonfiction writer looking for an analytically minded editor. Maybe English is not your mother tongue, but you're expected to write in it. Maybe you've tried ChatGPT and AI for editing help, but they flatten your voice and hallucinate citations.
 
 ### About me ###
 
-I work with writers like you to ensure your work is grammatically correct and polished. I focus on the details that journals and publishers care about, and I read with an eye for argumentative rigor that academics care about. And importantly, I ensure that your work sounds like *you*, not a machine.
+I work with writers like you to ensure your work is grammatically correct and polished. I focus on the details that journals and publishers care about, and I read with an eye for the argumentative rigor that academics care about. And importantly, I ensure that your work sounds like *you*, not a machine.
 
 Not only do I have professional editing experience and training but I'm also an academic. I've worked on everything from blog posts and book reviews to journal articles, edited collections, and monographs. I have experience helping non-native English speakers polish their writing—without losing their authentic voices.
 
