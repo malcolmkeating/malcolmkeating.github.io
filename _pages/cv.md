@@ -123,10 +123,10 @@ Philosophy*, Vol 4, "Being and Truth," Taylor & Francis, 2016.)
 
 #### Articles in Edited Volumes
 
-+ 2024\. "Following Phillips's Lead: Fallacies, Critical Thinking, and
-Contemplation." Matthew Dasti and Malcolm Keating. In *The* *Vindication
-of the World: Essays Engaging with Stephen Phillips*. (50% co-author
-contribution).
++ 2025\. "Untrained First Sights: Kumārila on Perceiving Universals." Malcolm Keating. In *Thinking without Borders: Essays in Honor of Arindam Chakrabarti,* edited by Matthew MacKenzie, Amy Donahue, Anand Vaidya. 137–54.
+
++ 2024\. "Following Phillips's Lead: Fallacies, Critical Thinking, and Contemplation." Matthew Dasti and Malcolm Keating. In *The* *Vindication
+of the World: Essays Engaging with Stephen Phillips*. (50% co-author contribution).
 
 + 2019\. Translation. "Nārāyaṇa Bhaṭṭa\'s *Elucidation of Epistemic
 Instruments and Their Objects*." In *Controversial Reasoning in Indian
