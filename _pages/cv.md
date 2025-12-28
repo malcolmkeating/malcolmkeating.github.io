@@ -14,8 +14,9 @@ redirect_from:
   Smith College<br />
   Northampton, MA 01063<br />
   United States
-  Email: <mkeating@smith.edu>
 </address>
+  
+Email: <mkeating@smith.edu>
 
 ### Current Academic Position
 
