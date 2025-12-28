@@ -12,7 +12,7 @@ I'm Associate Professor of Philosophy at [Smith College](https://www.smith.edu/)
 
 **Smith students**, use this [page](https://malcolmkeating.github.io/teaching/) to make an appointment, request letters of recommendation, and find out which courses I'm teaching.
 
-I have a **blog** that I update now and again and a **[podcast](https://malcolmkeating.github.io/podcasts/)** that I hope to revive someday. The blog is mostly about Indian philosophy and technical/editing topics.
+I have a **[blog](https://malcolmkeating.github.io/year-archive/)** that I update now and again and a **[podcast](https://malcolmkeating.github.io/podcasts/)** that I hope to revive someday. The blog is mostly about Indian philosophy and technical/editing topics.
 
 I'm also a **freelance editor**, with a copyediting certificate underway from [UC San Diego Extended Studies](https://extendedstudies.ucsd.edu/courses-certificates/writing/copyediting). If you're interested in working with me, see my **[editing page](https://malcolmkeating.github.io/editing/)**.
 
