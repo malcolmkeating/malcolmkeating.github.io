@@ -3,13 +3,9 @@ title: "Editing"
 layout: archive
 permalink: /editing/
 ---
-### About you ###
-
-Maybe you're an academic or nonfiction writer looking for an analytically minded editor. Maybe English is not your mother tongue, but you're expected to write in it. Maybe you've tried ChatGPT and AI for editing help, but they flatten your voice and hallucinate citations.
-
 ### About me ###
 
-I work with writers like you to ensure your work is grammatically correct and polished. I focus on the details that journals and publishers care about, and I read with an eye for the argumentative rigor that academics care about. And importantly, I ensure that your work sounds like *you*, not a machine.
+I work with academic writers to ensure their work is grammatically correct and polished. My editing addresses both stylistic details and argumentative rigor.
 
 Not only do I have professional editing experience and training but I'm also an academic. I've worked on everything from blog posts and book reviews to journal articles, edited collections, and monographs. I have experience helping non-native English speakers polish their writing—without losing their authentic voices.
 
@@ -20,10 +16,17 @@ Not only do I have professional editing experience and training but I'm also an 
 + Experience with foreign languages and diacritical marks
 + See my [editing résumé](https://malcolmkeating.github.io/editing-resume/) for more details
 
+### About my clients ###
+
+Maybe you're an academic or nonfiction writer looking for an analytically minded editor. Maybe English is not your mother tongue, but you're expected to write in it. Maybe you've tried ChatGPT and AI for editing help, but they flatten your voice and hallucinate citations.
+
+I specialize in academic editing for the humanities (e.g., art, classics, history, literature, history, philosophy, and religion).
+
 #### Services ####
 + **Developmental editing:** manuscript analysis, identifying strengths and weaknesses, suggestions for structural revisions
+  + **Examples:** Book proposals, grants, journal articles, monographs 
 + **Copyediting:** suggesting and implementing revisions for grammaticality, style, clarity, cohesiveness, and following publisher styles
-+ **Academic areas:** philosophy, linguistics, humanities (e.g., art, classics, history, literature, history, religion) 
+  + **Multiple levels** of copyediting available, including help meeting word count limitations for journals
 
 ### Getting in touch ###
 
