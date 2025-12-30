@@ -20,7 +20,7 @@ You can read my [editing résumé](https://malcolmkeating.github.io/editing-resu
 ### About my clients ###
 My clients are academic or nonfiction writers looking for an analytically minded editor. For many of them, English is not their mother tongue, but they're expected to write in it. (And they may have tried ChatGPT and AI for editing help, but found it flattens their voice, hallucinates citations, and is unsatisfactory for academic work).
 
-I specialize in academic editing for the humanities (e.g., art, classics, history, literature, history, philosophy, and religion). You can read what other academics have said about my work [here](_pages/editing_testimonials.md).
+I specialize in academic editing for the humanities (e.g., art, classics, history, literature, history, philosophy, and religion). You can read what other academics have said about my work [here](https://malcolmkeating.github.io/editing_testimonials.md).
 
 ### Services ###
 I provide two main services:
