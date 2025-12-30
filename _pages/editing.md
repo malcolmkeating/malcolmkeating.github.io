@@ -27,7 +27,7 @@ I provide two main services.
 
 **Developmental editing** is a high-level manuscript analysis, in which I identify strengths and weaknesses and provide suggestions for structural revisions through a report and a virtual meeting. This kind of editing helps with the initial stages of book proposals, grants, journal articles, and monographs, when you have a draft but want to make significant changes. It does not involve editing for grammar, punctuation, etc.
 
-**Copyediting** involves suggesting and implementing revisions for grammaticality, style, clarity, cohesiveness, and to ensure your manuscript follows publisher style. I have three levels of copyediting available (see intake form), depending on the extent to which I intervene in the writing style and structure of the manuscript.
+**Copyediting** involves suggesting and implementing revisions for grammaticality, clarity, and cohesiveness. I can also ensure your manuscript follows a publisher's house style. I have three levels of copyediting available (see intake form), depending on the extent to which I intervene in the writing style and structure of the manuscript.
 
 ### Getting in touch ###
 
