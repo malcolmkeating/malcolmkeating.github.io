@@ -14,19 +14,20 @@ Not only do I have professional editing experience and training but I'm also an 
 + Extensive editorial experience with academic articles and books
 + PhD in philosophy, focusing on language
 + Experience with foreign languages and diacritical marks
-+ See my [editing résumé](https://malcolmkeating.github.io/editing-resume/) for more details
+
+You can read my [editing résumé](https://malcolmkeating.github.io/editing-resume/) for more details.
 
 ### About my clients ###
+My clients are academic or nonfiction writers looking for an analytically minded editor. For many of them, English is not their mother tongue, but they're expected to write in it. (And they may have tried ChatGPT and AI for editing help, but found it flattens their voice, hallucinates citations, and is unsatisfactory for academic work).
 
-Maybe you're an academic or nonfiction writer looking for an analytically minded editor. Maybe English is not your mother tongue, but you're expected to write in it. Maybe you've tried ChatGPT and AI for editing help, but they flatten your voice and hallucinate citations.
+I specialize in academic editing for the humanities (e.g., art, classics, history, literature, history, philosophy, and religion). You can read what other academics have said about my work [here](_pages/editing_testimonials.md).
 
-I specialize in academic editing for the humanities (e.g., art, classics, history, literature, history, philosophy, and religion).
+### Services ###
+I provide two main services.
 
-#### Services ####
-+ **Developmental editing:** manuscript analysis, identifying strengths and weaknesses, suggestions for structural revisions
-  + **Examples:** Book proposals, grants, journal articles, monographs 
-+ **Copyediting:** suggesting and implementing revisions for grammaticality, style, clarity, cohesiveness, and following publisher styles
-  + **Multiple levels** of copyediting available, including help meeting word count limitations for journals
+**Developmental editing** is a high-level manuscript analysis, in which I identify strengths and weaknesses and provide suggestions for structural revisions through a report and a virtual meeting. This kind of editing helps with the initial stages of book proposals, grants, journal articles, and monographs, when you have a draft but want to make significant changes. It does not involve editing for grammar, punctuation, etc.
+
+**Copyediting** involves suggesting and implementing revisions for grammaticality, style, clarity, cohesiveness, and to ensure your manuscript follows publisher style. I have three levels of copyediting available (see intake form), depending on the extent to which I intervene in the writing style and structure of the manuscript.
 
 ### Getting in touch ###
 
