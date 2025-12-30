@@ -23,13 +23,17 @@ My clients are academic or nonfiction writers looking for an analytically minded
 I specialize in academic editing for the humanities (e.g., art, classics, history, literature, history, philosophy, and religion). You can read what other academics have said about my work [here](_pages/editing_testimonials.md).
 
 ### Services ###
-I provide two main services.
+I provide two main services:
 
 **Developmental editing** is a high-level manuscript analysis, in which I identify strengths and weaknesses and provide suggestions for structural revisions through a report and a virtual meeting. This kind of editing helps with the initial stages of book proposals, grants, journal articles, and monographs, when you have a draft but want to make significant changes. It does not involve editing for grammar, punctuation, etc.
 
-**Copyediting** involves suggesting and implementing revisions for grammaticality, clarity, and cohesiveness. I can also ensure your manuscript follows a publisher's house style. I have three levels of copyediting available (see intake form), depending on the extent to which I intervene in the writing style and structure of the manuscript.
+**Copyediting** involves suggesting and implementing revisions for grammaticality, clarity, and cohesiveness. I can also ensure your manuscript follows a publisher's house style. I have three levels of copyediting available, depending on the extent to which I intervene in the writing style and structure of the manuscript.
 
-### Getting in touch ###
++ Light copyediting - fix errors in grammar and spelling, ensure consistency within document and with style guide
++ Medium copyediting - light copyediting plus *identification* of infelicities in language and cohesiveness
++ Heavy copyediting - light copyediting plus *revisions* in infelicities in language and cohesiveness
+
+### Get in touch ###
 
 During summers, I work selectively with academic clients in need of copyediting or developmental editing. If you're interested in working with me, fill out a form with information about your project(s) and timeline. Please note that I do not edit PhD dissertations.
 
