@@ -25,11 +25,11 @@ I specialize in academic editing for the humanities (e.g., art, classics, histor
 ### Services ###
 I provide two main services:
 
-**Developmental editing** is a high-level manuscript analysis, in which I identify strengths and weaknesses and provide suggestions for structural revisions through a report and a virtual meeting. This kind of editing helps with the initial stages of book proposals, grants, journal articles, and monographs, when you have a draft but want to make significant changes. It does not involve editing for grammar, punctuation, etc.
+**Developmental editing** is a high-level manuscript analysis in which I identify strengths and weaknesses and provide suggestions for structural revisions through a report and a virtual meeting. This kind of editing helps with the initial stages of book proposals, grants, journal articles, and monographs, when you have a draft but want to make significant changes. It does not involve editing for grammar, punctuation, etc.
 
 **Copyediting** involves suggesting and implementing revisions for grammaticality, clarity, and cohesiveness. I can also ensure your manuscript follows a publisher's house style. I have three levels of copyediting available, depending on the extent to which I intervene in the writing style and structure of the manuscript.
 
-+ Light copyediting - fix errors in grammar and spelling, ensure consistency within document and with style guide
++ Light copyediting - fixes errors in grammar and spelling, ensures consistency within document and with style guide
 + Medium copyediting - light copyediting plus *identification* of infelicities in language and cohesiveness
 + Heavy copyediting - light copyediting plus *revisions* in infelicities in language and cohesiveness
 

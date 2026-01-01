@@ -10,8 +10,6 @@ tags:
 
 ---
 
-![](https://malcolmkeatingsite.wordpress.com/wp-content/uploads/2025/11/oldlibrarytrinity.jpg?w=795)
-
 This week I, I took a trip to Dublin and viewed the Book of Kells and the Old Library at Trinity. In the exhibit, before visitors were funneled into the dark room that held the Book of Kells, I encountered a poem that made me think about current debates over artificial intelligence and also about Sanskrit poetics. First, the poem:
 
 I and Pangur Bán my cat  

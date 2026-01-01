@@ -31,6 +31,6 @@ Monte Johnson, Professor of Philosophy
 
 Upali Sraman, Lecturer of Buddhist Languages and Cultures 
 
-> Malcolm is a very helpful editor. His general comments sharpened the piece I wrote for him in his capacity as an editor at Philosophy East and West. He also caught various small formatting inconsistencies and brought the piece up to the journal's requirements. (His ability to proofread Sanskrit is quite valuable, too!) Malcolm is also encouraging, punctual, and easy to communicate with. I'm happy to be working with him again, and I'd highly recommend others do so, too!
+> Malcolm is a very helpful editor. His general comments sharpened the piece I wrote for him in his capacity as an editor at *Philosophy East and West*. He also caught various small formatting inconsistencies and brought the piece up to the journal's requirements. (His ability to proofread Sanskrit is quite valuable, too!) Malcolm is also encouraging, punctual, and easy to communicate with. I'm happy to be working with him again, and I'd highly recommend others do so, too!
 
 Davey K. Tomlinson, Assistant Professor of Philosophy 
