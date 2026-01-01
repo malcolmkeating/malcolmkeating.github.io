@@ -17,5 +17,3 @@ I have a **[blog](https://malcolmkeating.github.io/year-archive/)** that I updat
 I'm also a **freelance editor**, with a copyediting certificate underway from [UC San Diego Extended Studies](https://extendedstudies.ucsd.edu/courses-certificates/writing/copyediting). If you're interested in working with me, see my **[editing page](https://malcolmkeating.github.io/editing/)**.
 
 In my spare time, I enjoy running, hiking, [photography](https://www.flickr.com/photos/c_malcolm/), and spending time with my partner, also a [philosopher](https://sites.google.com/site/laurapaceguerrero).
-
-Note: This is a GitHub Pages version of my academic website, which I'm using to play around with Markdown and other projects. If you've stumbled across it accidentally, you probably want my [active website](https://malcolmkeatingsite.wordpress.com/).
