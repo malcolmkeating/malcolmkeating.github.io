@@ -20,18 +20,18 @@ You can read my [editing résumé](https://malcolmkeating.github.io/editing-resu
 ### About my clients ###
 My clients are academic or nonfiction writers looking for an analytically minded editor. For many of them, English is not their mother tongue, but they're expected to write in it. (And they may have tried ChatGPT and AI for editing help, but found it flattens their voice, hallucinates citations, and is unsatisfactory for academic work).
 
-I specialize in academic editing for the humanities (e.g., art, classics, history, literature, history, philosophy, and religion). You can read what other academics have said about my work [here](https://malcolmkeating.github.io/editing-testimonials/).
+I specialize in academic editing for the humanities (e.g., art, classics, history, literature, philosophy, and religion). You can read what other academics have said about my work [here](https://malcolmkeating.github.io/editing-testimonials/).
 
 ### Services ###
 I provide two main services:
 
-**Developmental editing** is a high-level manuscript analysis in which I identify strengths and weaknesses and provide suggestions for structural revisions through a report and a virtual meeting. This kind of editing helps with the initial stages of book proposals, grants, journal articles, and monographs, when you have a draft but want to make significant changes. It does not involve editing for grammar, punctuation, etc.
+**Developmental editing** is a high-level manuscript analysis in which I identify strengths and weaknesses and provide suggestions for structural revisions through a report and a virtual meeting. This kind of editing helps with the initial stages of book proposals, grants, journal articles, and monographs. It's for when you have a draft but want to make significant changes. It does not involve editing for grammar, punctuation, etc.
 
-**Copyediting** involves suggesting and implementing revisions for grammaticality, clarity, and cohesiveness. I can also ensure your manuscript follows a publisher's house style. I have three levels of copyediting available, depending on the extent to which I intervene in the writing style and structure of the manuscript.
+**Copyediting** is a detailed manuscript analysis in which I suggest and implement revisions for grammaticality, clarity, and cohesiveness. I can also ensure your manuscript follows a publisher's house style. I have three levels of copyediting available, depending on the extent to which I intervene in the writing style and structure of the manuscript.
 
 + Light copyediting - fixes errors in grammar and spelling, ensures consistency within document and with style guide
 + Medium copyediting - light copyediting plus *identification* of infelicities in language and cohesiveness
-+ Heavy copyediting - light copyediting plus *revisions* in infelicities in language and cohesiveness
++ Heavy copyediting - light copyediting plus *proposing revisions* in infelicities in language and cohesiveness
 
 ### Get in touch ###
 
