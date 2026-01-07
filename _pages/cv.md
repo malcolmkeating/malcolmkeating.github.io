@@ -91,7 +91,7 @@ Studies*. 26 (1): 63–87.
 + 2021\. "The Pragma-Dialectics of Dispassionate Discourse: Early Nyāya
 Argumentation Theory." *Religions*. Special Issue: Philosophical Issues
 in the Hindu Tradition, Global Impact, ed. Trichur S. Rukmani.
-*Religions.* 12 (10): 875. https://doi.org/10.3390/rel12100875
+*Religions.* 12 (10): 875. <https://doi.org/10.3390/rel12100875>
 
 + 2019\. "Metaphor or Delusion? A Mīmāṃsaka's Response to Conceptual
 Metaphor Theory." *Philosophy East and West*. 70 (2): 395–423.
@@ -103,11 +103,11 @@ Philosophy*. 45 (5): 911–38.
 + 2017\. "Metonymy and Metaphor as Verbal Postulation: The Epistemic
 Status of Non-Literal Speech in Indian Philosophy." *Journal of World
 Philosophies*. 2 (1).
-https://scholarworks.iu.edu/iupjournals/index.php/jwp/article/view/923.
+<https://scholarworks.iu.edu/iupjournals/index.php/jwp/article/view/923>.
 
 + 2017\. With Elisa Freschi. "How Do We Gather Knowledge through
 Language?" *Journal of World Philosophies*. 2 (1).
-https://scholarworks.iu.edu/iupjournals/ index.php/jwp/article/view/921
+<https://scholarworks.iu.edu/iupjournals/index.php/jwp/article/view/921>
 (50% co-author contribution).
 
 + 2015\. "Thinking about Embedded Metaphors*." Journal of Pragmatics*. 88:
@@ -164,8 +164,7 @@ eds. Wiley-Blackwell.
 
 + 2016, 2020. "The Literal/Non-Literal Distinction in Indian Philosophy."
 *The Stanford Encyclopedia of Philosophy*. Edward N. Zalta, ed. First
-published Nov 26, 2016. Substantive revision Dec 3, 2020. URL =
-\<https://plato.stanford.edu/archives/sum2021/entries/literal-nonliteral-india/\>.
+published Nov 26, 2016. Substantive revision Dec 3, 2020. <https://plato.stanford.edu/archives/sum2021/entries/literal-nonliteral-india/>
 
 + 2016, 2023. With Matthew R. Dasti. "Epistemology (*Pramāṇa*s)," *Oxford
 Bibliographies Online*, Hinduism. Substantive revision 2023. (50%
@@ -200,7 +199,7 @@ doi:10.1353/pew.2019.0075.
 
 + 2018\. Roy Tzohar, "A Yogācāra Buddhist Theory of Metaphor." *Notre Dame
 Philosophical Reviews*. August 2018.
-https://ndpr.nd.edu/reviews/a-yogacara-buddhist-theory-of-metaphor/
+<https://ndpr.nd.edu/reviews/a-yogacara-buddhist-theory-of-metaphor/>
 
 + 2015\. Amber Carpenter, "Indian Buddhist Philosophy." *Philosophy East
 and West* 64 (4): 1000–3.
@@ -214,8 +213,8 @@ Society* 133 (1): 160–62.
 + 2021–2024. Host, *New Books Network (Language Channel, Philosophy
 Channel)*, Long-form interviews focusing on recent scholarly volumes in
 language and in philosophy.
-https://newbooksnetwork.com/category/politics-society/language/,
-https://newbooksnetwork.com/category/politics-society/philosophy
+<https://newbooksnetwork.com/category/politics-society/language/>,
+<https://newbooksnetwork.com/category/politics-society/philosophy>
 
 + 2020–2023. Author and Host, *Sutras & Stuff Podcast*, Short-form
 episodes focusing on a single topic in premodern Indian philosophy and
@@ -223,15 +222,15 @@ their relevance to the modern day. (On haitus.)
 
 + 2021\. "Skeptics and Yogis: Ancient Indian Wisdom is Broader and Deeper
 Than You Might Think," *Culturico*, August 2, 2021
-(https://culturico.com/2021/08/02/skeptics-and-yogis-ancient-indian-wisdom-is-broader-and-deeper-than-you-might-think/)
+<https://culturico.com/2021/08/02/skeptics-and-yogis-ancient-indian-wisdom-is-broader-and-deeper-than-you-might-think/>
 
 + 2020\. "In Nyāya philosophy, only some debates are worth having,"
 *Psyche,* December 3, 2020.
-https://psyche.co/ideas/in-nyaya-philosophy-only-some-debates-are-worth-having
+<https://psyche.co/ideas/in-nyaya-philosophy-only-some-debates-are-worth-having>
 
 + 2020\. "The Aesthetic Ingredients of Holiday Romance," PEA Soup,
 November 30, 2020.
-http://peasoup.us/2020/11/the-aesthetic-ingredients-of-holiday-romance
+<http://peasoup.us/2020/11/the-aesthetic-ingredients-of-holiday-romance>
 
 #### Refereed Conference Papers
 
@@ -479,8 +478,7 @@ Philosophers and Philosophies.
 + YHU 3267: Classical Indian Philosophy of Language
 + YHU 3297: Debate & Reasoning in Indian Philosophy
 + YHU 3372: Global Theories of Metaphor
-+ YHU 3330: Hinduism, Nationalism, and the *Bhagavad Gītā* in the 20th
-Century
++ YHU 3330: Hinduism, Nationalism, and the *Bhagavad Gītā* in the 20th Century
 + YHU 3350: Slurs, Insults, and Hate Speech
 + YHU 4219: Doing Things with Words
 + YHU 4103: Philosophy Capstone Seminar
@@ -496,92 +494,62 @@ Century
 #### Other Institutions
 
 + World Philosophy (University of Texas at Austin, Assistant Instructor, 2014)
-+ Introduction to Philosophy (University of Texas at Austin, Assistant
-Instructor, 2014)
++ Introduction to Philosophy (University of Texas at Austin, Assistant Instructor, 2014)
 + Moral Reasoning (St. Edward's University, Adjunct Instructor, 2015)
-+ Online Introduction to Philosophy (City Colleges of Chicago, Adjunct
-Instructor, 2008)
++ Online Introduction to Philosophy (City Colleges of Chicago, Adjunct Instructor, 2008)
 + Online Logic (Elgin Community College, Adjunct Instructor, 2007)
 + World Religions (Forest Park Community College, Adjunct Instructor, 2007)
 
 #### Other Teaching Experience
 
-+ Logic, Johns Hopkins University, CTY Summer Program (Los Angeles, CA)
-(2013, 2014)
++ Logic, Johns Hopkins University, CTY Summer Program (Los Angeles, CA) (2013, 2014)
 + Sanskrit Language Tutor, Private (Austin, TX) (2010–2014)
 
 #### Student Supervision
 
 Smith College Special Studies: Fall 2024, Spring 2025
 
-+ Helke, T. (Doctoral) "Philosophy of Conditionals," National University
-of Singapore. (Committee Co-Supervisor, 2016–2018)
++ Helke, T. (Doctoral) "Philosophy of Conditionals," National University of Singapore. (Committee Co-Supervisor, 2016–2018)
 
-+ Yale-NUS College Philosophy Major Capstone: 2017–18 (1), 2018–19 (2),
-2019–20 (1), 2020–21 (2), 2021–22 (2), 2022–23 (3)
++ Yale-NUS College Philosophy Major Capstone: 2017–18 (1), 2018–19 (2), 2019–20 (1), 2020–21 (2), 2021–22 (2), 2022–23 (3)
 
 + NUS Senior Thesis: 2022–23 (1)
 
 #### Other Teaching and Lectures 
 
-+ March 7, 2019. "Skepticism about Philosophy in Late Classical India,"
-discussion with Ethan Mills, Yale-NUS Philosophy Society and Bras Basah
-Open School of Theory.
++ March 7, 2019. "Skepticism about Philosophy in Late Classical India," discussion with Ethan Mills, Yale-NUS Philosophy Society and Bras Basah Open School of Theory.
 
-+ February 14, 2019. "Knowledge Beyond Sense-Perception: Inference in the
-Indian Philosopher Annaṃbhaṭṭa" National University of Singapore,
-Tembusu College, Fellow's Tea.
++ February 14, 2019. "Knowledge Beyond Sense-Perception: Inference in the Indian Philosopher Annaṃbhaṭṭa" National University of Singapore, Tembusu College, Fellow's Tea.
 
-+ April 3, 2018. Guest Lecture, "The Problem of Empty Terms in Indian &
-Comparative Philosophy," PH3204, Issues in Indian Philosophy
-(Instructor: Sarindranath Tagore), National University of Singapore.
++ April 3, 2018. Guest Lecture, "The Problem of Empty Terms in Indian & Comparative Philosophy," PH3204, Issues in Indian Philosophy (Instructor: Sarindranath Tagore), National University of Singapore.
 
-+ November 8, 2017. "Philosophy of Language and Internet Memes,"
-Philosophy Café, Yale-NUS College.
++ November 8, 2017. "Philosophy of Language and Internet Memes," Philosophy Café, Yale-NUS College.
 
-+ October 19, 2016. "*Star Trek* and Philosophy," Philosophy Café,
-Yale-NUS College, with Fabian Geier.
++ October 19, 2016. "*Star Trek* and Philosophy," Philosophy Café, Yale-NUS College, with Fabian Geier.
 
 #### Pedagogical Training and Workshops
 
-+ Fall 2014 - Leadership Certificate in Inclusive Classrooms from UT
-Austin.
++ Fall 2014 - Leadership Certificate in Inclusive Classrooms from UT Austin.
 
-+ July 2014 - Teaching and Learning Seminar: American Association of
-Philosophy Teachers' 20th Biennial International Workshop-Conference.
++ July 2014 - Teaching and Learning Seminar: American Association of Philosophy Teachers' 20th Biennial International Workshop-Conference.
 
 ### Service to the Discipline
 
 + Copyeditor, APA Blog, American Philosophy Association: January 2026–present
 
-+ Steering Committee Member, Hindu Philosophy Unit, American Academy of
-Religion: January 2025–present.
++ Steering Committee Member, Hindu Philosophy Unit, American Academy of Religion: January 2025–present.
 
-+ Coeditor with Ben Blumson: *Asian Journal of Philosophy* topical
-collection, "Resemblance," February 2024–present.
++ Coeditor with Ben Blumson: *Asian Journal of Philosophy* topical collection, "Resemblance," February 2024–present.
 
-+ General Editor: Bloomsbury Academic Press, Book Series: *Reading Primary
-Sources in Asian Philosophies*, August 2023–present.
++ General Editor: Bloomsbury Academic Press, Book Series: *Reading Primary Sources in Asian Philosophies*, August 2023–present.
 
 + Book Review Editor: *Philosophy East & West*, May 2020–August 2023.
 
-+ Memberships: American Philosophical Association, American Academy of
-Religion, American Oriental Society, International Association of
-Buddhist Studies
++ Memberships: American Philosophical Association, American Academy of Religion, American Oriental Society, International Association of Buddhist Studies
 
-+ Refereeing: Swiss National Science Foundation (2025), Israel Science
-Foundation (2025), *Asian Journal of Philosophy* (2025), *Journal of
-Dharma Studies* (2024, 2025 x2), Broadview Press, Routledge Press,
-*British Journal of the History of Philosophy* (2024); *Ergo* (2022,
-2025 x 2)*; Social Epistemology*, *Synthese* (2022); Austrian Science
-Fund, *Synthese* (2021); Oxford University Press, *Theoria* (2020);
-*Philosophy and Phenomenological Research, Philosophy East and West*
-(2019, 2025); *Journal of Pragmatics* (2018); Bloomsbury Academic
-Publishing, *Sophia* (2017); *Journal of World Philosophies* (2015);
-*Erkenntnis, Journal of Comparative Philosophy* (2011).
++ Refereeing: Swiss National Science Foundation (2025), Israel Science Foundation (2025), *Asian Journal of Philosophy* (2025), *Journal of Dharma Studies* (2024, 2025 x2), Broadview Press, Routledge Press, *British Journal of the History of Philosophy* (2024); *Ergo* (2022, 2025 x 2)*; Social Epistemology*, *Synthese* (2022); Austrian Science Fund, *Synthese* (2021); Oxford University Press, *Theoria* (2020); *Philosophy and Phenomenological Research, Philosophy East and West* (2019, 2025); *Journal of Pragmatics* (2018); Bloomsbury Academic Publishing, *Sophia* (2017); *Journal of World Philosophies* (2015); *Erkenntnis, Journal of Comparative Philosophy* (2011).
 
-+ Contributor: *Indian Philosophy Blog*, a scholarly group blog,
-2014–2021.
++ Contributor: *Indian Philosophy Blog*, a scholarly group blog, 2014–2021.
 
 ### Institutional Service 
 
@@ -593,8 +561,7 @@ Publishing, *Sophia* (2017); *Journal of World Philosophies* (2015);
 
 + 2018–2022. Advisory Committee on Language Studies
 
-+ 2018–2022. Student Support Team (team of staff & faculty to assist
-student sexual assault survivors with resources)
++ 2018–2022. Student Support Team (team of staff & faculty to assist student sexual assault survivors with resources)
 
 + 2016–2018. Research Committee
 
@@ -626,21 +593,12 @@ Northampton, MA
 
 #### Pedagogical Service
 
-+ 2019–2021. Center for Teaching and Learning Affiliate (assists with
-remote teaching support, facilitating faculty workshops, creating
-pedagogical guides)
-- Organizer and Moderator, "Critical Conversations: Contention and
-  Belonging in the Classroom," Yale-NUS Center for Teaching and Learning
-  April 22, 2021.
-- Author, "Peer Observation for Online Teaching," for Center for
-  Teaching and Learning, September 2020.
-+  August 23, 2018. Presenter, Yale-NUS College Center for Teaching and Learning "Teaching & Tonics" session: "Starting a New Semester &
-Creating an Inclusive Classroom Environment."
-
-+ 2015–2017. Assisted with Yale-NUS College Sanskrit Language
-teleconference course development.
++ 2019–2021. Center for Teaching and Learning Affiliate (assists with remote teaching support, facilitating faculty workshops, creating pedagogical guides)
+- Organizer and Moderator, "Critical Conversations: Contention and Belonging in the Classroom," Yale-NUS Center for Teaching and Learning April 22, 2021.
+- Author, "Peer Observation for Online Teaching," for Center for Teaching and Learning, September 2020.
++  August 23, 2018. Presenter, Yale-NUS College Center for Teaching and Learning "Teaching & Tonics" session: "Starting a New Semester: Creating an Inclusive Classroom Environment."
++ 2015–2017. Assisted with Yale-NUS College Sanskrit Language teleconference course development.
 
 ### Languages
 
-Sanskrit (advanced reading), Spanish (intermediate
-reading/speaking/writing), English (fluent)
+Sanskrit (advanced reading), Spanish (intermediate reading/speaking/writing), English (fluent)

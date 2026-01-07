@@ -4,7 +4,6 @@ title: "Teaching"
 author_profile: true
 ---
 
-**Table of Contents**
 * toc
 {:toc}
 
