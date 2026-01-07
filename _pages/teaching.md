@@ -4,19 +4,17 @@ title: "Teaching"
 author_profile: true
 ---
 
-Current and past students, use this page for information about appointments, course information, and recommendation letters.
-
 **Table of Contents**
 * toc
 {:toc}
 
 Drop-in office hours & appointments
 ======
-During spring 2026, you can stop in to my office in Wright Hall, Room 222, at any time during my "drop-in" hours:
+During spring 2026, you can stop in to my office in Wright Hall, Room 222, at any time during my "drop-in" hours, without an appointment:
 * Tuesdays, 4:15–5:15pm
 * Wednesdays, 1:00–2:00pm
 
-If these times don't work, make a [Google Calendar appointment](https://calendar.app.google/6vGQCxrU93EXe7cd9). If you need a time different from office hours and the open appointments, email me at mkeating@smith.edu.
+If these times don't work, make a [Google Calendar appointment](https://calendar.app.google/6vGQCxrU93EXe7cd9). If you need a time different from "drop-in" office hours and the online appointments, email me at mkeating@smith.edu.
 
 Preparing for appointments
 ======
@@ -41,11 +39,11 @@ Use this [Google Worksheet](https://docs.google.com/spreadsheets/d/1oq_jhACmmrZa
 See the [Study Abroad website](https://www.smith.edu/academics/study-abroad) for details about and deadlines for studying abroad while at Smith College.
 
 #### Linguistics major advising
-See the [Linguistics website](https://www.smith.edu/academics/class-deans/majors-minors-concentrations/student-designed-major) and information about [Student-Designed Interdepartmental Major](https://www.smith.edu/academics/class-deans/majors-minors-concentrations/student-designed-major) for more details about this self-designed major.
+See the [Linguistics website](https://www.smith.edu/academics/class-deans/majors-minors-concentrations/student-designed-major) and information about the [Student-Designed Interdepartmental Major](https://www.smith.edu/academics/class-deans/majors-minors-concentrations/student-designed-major) for more details about this self-designed major.
 
 #### South Asian studies minor advising
 
-See the [South Asian Studies minor website](https://www.smith.edu/academics/south-asian-studies) for more details about this interdisciplinary major.
+See the [South Asian Studies minor website](https://www.smith.edu/academics/south-asian-studies) for more details about this interdisciplinary minor.
 
 Beyond the Five Colleges
 ======
