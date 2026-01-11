@@ -18,7 +18,7 @@ They include a set of principles that they propose philosophers "endorse, promot
 
 I think this is an excellent suggestion, though it is admittedly difficult to implement. Analytic philosophy emphasizes precision and clarity in ways that mean reviewers attend carefully to how arguments are stated and authors' word choice. What counts as "undue" is going to be contentious.
 
-I'd add to the principles that it isn't just "non-native English speakers" who have this disadvantage, so do speakers of ["World" or "Global" Englishes](https://owl.purdue.edu/owl/multilingual/world_englishes/index.html), who have English as a mother tongue but don't speak it the way it is spoken in the United States or UK (or Australasia). This includes many former colonies of the US or UK, where there are also different English registers or sociolects.
+I'd add to the principles that it isn't just "non-native English speakers" who have this disadvantage: so do speakers of ["World" or "Global" Englishes](https://owl.purdue.edu/owl/multilingual/world_englishes/index.html), who have English as a mother tongue but don't speak it the way it is spoken in the United States or UK (or Australasia). This includes many former colonies of the US or UK, where there are also different English registers or sociolects.
 
 As for how to navigate the first principle, I have a few thoughts about what referees can do:
 
