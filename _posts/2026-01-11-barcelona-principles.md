@@ -10,9 +10,9 @@ tags:
   - World English
 ---
 
-At the most recent Eastern APA (American Philosophical Association) meeting, there was a session on the [Barcelona Principles](https://contesi.info/bp/), which argues that non-native English speakers are at a disadvantage in "analytic" or "Anglo-American" philosophy because of the emphasis on "linguistic appearances" in evaluating journal submissions and the lack of non-native English speakers on editorial boards or any special policies for submissions from such speakers.
+At the most recent Eastern APA (American Philosophical Association) meeting, there was a session on the [Barcelona Principles](https://contesi.info/bp/), which argues that non-native English speakers are at a disadvantage in "analytic" or "Anglo-American" philosophy. 
 
-They include a set of principles that they propose philosophers "endorse, promote and apply," the first of which is:
+The authors of the principles argue that this is because of the emphasis on "linguistic appearances" in evaluating journal submissions and the lack of non-native English speakers on editorial boards or any special policies for submissions from such speakers. They propose several principles for philosophers to "endorse, promote and apply," the first of which is:
 
 1. To evaluate, as a rule, publications, presentations, proposals and submissions without giving undue weight to their authors’ linguistic style, fluency or accent.
 
