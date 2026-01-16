@@ -37,7 +37,7 @@ Instructors may not have as much experience in teaching broadly “non-Western�
 
 ### [Classical Sanskrit for Everyone: A Guide for Absolute Beginners](https://hackettpublishing.com/classical-sanskrit-for-everyone) (2025) ###
 
-An orientation to classical Sanskrit for the curious, the yoga aficianado, and the scholarly reader interested in beginning their journey with the language or just learning a little bit about how it works. Accompanying resources are hosted at [Hackett’s website](https://hackettpublishing.com/classical-sanskrit-for-everyone). I've compiled some errata (here)[https://malcolmkeating.github.io/posts/2025/09/errata/], until they can be corrected at the next printing.
+An orientation to classical Sanskrit for the curious, the yoga aficianado, and the scholarly reader interested in beginning their journey with the language or just learning a little bit about how it works. Accompanying resources are hosted at [Hackett’s website](https://hackettpublishing.com/classical-sanskrit-for-everyone). I've compiled some errata [here](https://malcolmkeating.github.io/posts/2025/09/errata/), until they can be corrected at the next printing.
 
 ### [Reason in an Uncertain World: Nyāya Philosophers on Argumentation and Living Well](https://global.oup.com/academic/product/reason-in-an-uncertain-world-9780197634431) (2024) ### 
 An accessible guide to early Sanskrit-language philosophers often known as "the Logicians" or "the Thinkers" (Naiyāyikas) because of their concern with principles of knowledge and reasoning.
