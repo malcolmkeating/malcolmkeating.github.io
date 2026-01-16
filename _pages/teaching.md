@@ -9,11 +9,11 @@ author_profile: true
 
 Drop-in office hours & appointments
 ======
-During spring 2026, you can stop in to my office in Wright Hall, Room 222, at any time during my "drop-in" hours, without an appointment:
+During spring 2026, you can stop into my office in Wright Hall, Room 222, at any time during my "drop-in" hours, without an appointment:
 * Tuesdays, 4:15–5:15pm
 * Wednesdays, 1:00–2:00pm
 
-If these times don't work, make a [Google Calendar appointment](https://calendar.app.google/6vGQCxrU93EXe7cd9). If you need a time different from "drop-in" office hours and the online appointments, email me at mkeating@smith.edu.
+If these times don't work, make a [Google Calendar appointment](https://calendar.app.google/6vGQCxrU93EXe7cd9). If you need a time different from "drop-in" office hours and the online appointments, email me at <mkeating@smith.edu>.
 
 Preparing for appointments
 ======
