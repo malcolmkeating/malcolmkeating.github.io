@@ -54,8 +54,7 @@ Singapore, June 2016–February 2024
 
 #### Monographs
 
-+ 2025\. *Classical Sanskrit for Everyone: A Guide for Absolute
-Beginners.* Hackett Publishing.
++ 2025\. *Classical Sanskrit for Everyone: A Guide for Absolute Beginners.* Hackett Publishing.
 
 + 2024\. *Reason in an Uncertain World: Nyāya Philosophers on
 Argumentation and Living Well.* Oxford University Press.
