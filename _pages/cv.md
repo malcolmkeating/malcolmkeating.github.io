@@ -65,23 +65,17 @@ Bloomsbury Academic Publishing.
 
 #### Edited Volumes
 
-+ 2024\. Co-edited with Matthew R. Dasti. *The* *Vindication of the World:
-Essays Engaging with Stephen Phillips*. Routledge.
++ 2024\. Co-edited with Matthew R. Dasti. *The* *Vindication of the World: Essays Engaging with Stephen Phillips*. Routledge.
 
-+ 2020\. *Controversial Reasoning in Indian Philosophy*: *Major Texts and
-Arguments on Arthâpatti*. Bloomsbury Academic Publishing.
++ 2020\. *Controversial Reasoning in Indian Philosophy*: *Major Texts and Arguments on Arthâpatti*. Bloomsbury Academic Publishing.
 
 #### Peer-reviewed Articles
 
-+ Forthcoming. "Kumārila Bhaṭṭa on the First-Personal Pronoun."
-*Proceedings of the Aristotelian Society*. Accepted and scheduled for
-volume 126, issue 1.
++ Forthcoming. "Kumārila Bhaṭṭa on the First-Personal Pronoun." *Proceedings of the Aristotelian Society*. Accepted and scheduled for volume 126, issue 1.
 
-+ Forthcoming. "Translating for the Undergraduate Classroom." *Philosophy
-East and West*. Accepted and scheduled for volume 76, issue 4.
++ Forthcoming. "Translating for the Undergraduate Classroom." *Philosophy East and West*. Accepted and scheduled for volume 76, issue 4.
 
-+ 2022\. "Kumārila Bhaṭṭa and Pārthasārathi Miśra on First-and
-Higher-Order Knowing." *Philosophy East and West*. 72 (2): 396–414.
++ 2022\. "Kumārila Bhaṭṭa and Pārthasārathi Miśra on First-and Higher-Order Knowing." *Philosophy East and West*. 72 (2): 396–414.
 
 + 2022\. "Debating with Fists and Fallacies: Vācaspati Miśra and
 Dharmakīrti on Norms of Argumentation." *International Journal of Hindu
@@ -112,13 +106,9 @@ Language?" *Journal of World Philosophies*. 2 (1).
 + 2015\. "Thinking about Embedded Metaphors*." Journal of Pragmatics*. 88:
 19–26.
 
-+ 2013\. "The Cow is to Be Tied Up: Sort-Shifting in Classical Indian
-Philosophy*." History of Philosophy Quarterly*. 30 (4): 311–31.
++ 2013\. "The Cow is to Be Tied Up: Sort-Shifting in Classical Indian Philosophy*." History of Philosophy Quarterly*. 30 (4): 311–31.
 
-+ 2013\. "Mukulabhaṭṭa's Defense of Lakṣaṇā: How We Use Words to Mean
-Something Else, but Not Everything Else*.\" Journal of Indian
-Philosophy*. 41 (4) 439–61. (Reprinted in Jonardon Ganeri, *Indian
-Philosophy*, Vol 4, "Being and Truth," Taylor & Francis, 2016.)
++ 2013\. "Mukulabhaṭṭa's Defense of Lakṣaṇā: How We Use Words to Mean Something Else, but Not Everything Else*.\" Journal of Indian Philosophy*. 41 (4) 439–61. (Reprinted in Jonardon Ganeri, *Indian Philosophy*, Vol 4, "Being and Truth," Taylor & Francis, 2016.)
 
 #### Articles in Edited Volumes
 
@@ -146,14 +136,7 @@ Cross-Cultural Multidisciplinary Philosophy*, edited by Durga Basu,
 
 #### Forthcoming Articles in Edited Volumes
 
-+ November 2025. "Untrained First Sights: Kumārila on Perceiving
-Universals." In *Thinking without Borders: Essays in Honor
-of Arindam Chakrabarti*, edited by Amy Donahue, Anand Vaidya, and
-Matthew MacKenzie. Bloomsbury Academic Publishing.
-
-+ Accepted (under contract). "The Metaphysics of Similarity in Kumārila
-Bhaṭṭa's *Ślokavārttika*." In a festschrift for ShashiPrabha Kumar,
-edited by Agnieszka Rostalska and Purushottama Billimoria. Springer.
++ Accepted (under contract). "The Metaphysics of Similarity in Kumārila Bhaṭṭa's *Ślokavārttika*." In a festschrift for ShashiPrabha Kumar, edited by Agnieszka Rostalska and Purushottama Billimoria. Springer.
 
 #### Peer-Reviewed Encyclopedia Entries and Annotated Bibliographies
 
