@@ -570,8 +570,7 @@ Liaison
 
 #### Other Service
 
-+ 2025–present. Member, Board of Directors, Hampshire Support Alliance,
-Northampton, MA
++ 2024–present. Volunteer, Hampshire Support Alliance, Northampton, MA
 
 #### Pedagogical Service
 
