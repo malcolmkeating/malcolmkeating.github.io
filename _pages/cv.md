@@ -59,9 +59,7 @@ Singapore, June 2016–February 2024
 + 2024\. *Reason in an Uncertain World: Nyāya Philosophers on
 Argumentation and Living Well.* Oxford University Press.
 
-+ 2019\. *Language, Meaning, and Use in Indian Philosophy*: *An
-Introduction to Mukula\'s "Fundamentals of the Communicative Function."*
-Bloomsbury Academic Publishing.
++ 2019\. *Language, Meaning, and Use in Indian Philosophy*: *An Introduction to Mukula\'s "Fundamentals of the Communicative Function."* Bloomsbury Academic Publishing.
 
 #### Edited Volumes
 
@@ -95,13 +93,10 @@ Philosophy*. 45 (5): 911–38.
 
 + 2017\. "Metonymy and Metaphor as Verbal Postulation: The Epistemic
 Status of Non-Literal Speech in Indian Philosophy." *Journal of World
-Philosophies*. 2 (1).
-<https://scholarworks.iu.edu/iupjournals/index.php/jwp/article/view/923>.
+Philosophies*. 2 (1). <https://scholarworks.iu.edu/iupjournals/index.php/jwp/article/view/923>.
 
 + 2017\. With Elisa Freschi. "How Do We Gather Knowledge through
-Language?" *Journal of World Philosophies*. 2 (1).
-<https://scholarworks.iu.edu/iupjournals/index.php/jwp/article/view/921>
-(50% co-author contribution).
+Language?" *Journal of World Philosophies*. 2 (1). <https://scholarworks.iu.edu/iupjournals/index.php/jwp/article/view/921> (50% co-author contribution).
 
 + 2015\. "Thinking about Embedded Metaphors*." Journal of Pragmatics*. 88:
 19–26.
@@ -129,7 +124,7 @@ Texts and Arguments on Arthâpatti*. Bloomsbury Academic Publishing,
 
 #### Conference Proceedings
 
-+ 2019. "The Self Is a Sky-Flower: Kumārila and Diṅnāga on Non-Referring Terms." In *Sister Nivedita's Interpretation of Swami Vivekananda and Cross-Cultural Multidisciplinary Philosophy*, edited by Durga Basu, 97–121. Kolkata: Ramakrishna Mission Institute of Culture.
++ 2019\. "The Self Is a Sky-Flower: Kumārila and Diṅnāga on Non-Referring Terms." In *Sister Nivedita's Interpretation of Swami Vivekananda and Cross-Cultural Multidisciplinary Philosophy*, edited by Durga Basu, 97–121. Kolkata: Ramakrishna Mission Institute of Culture.
 
 #### Forthcoming Articles in Edited Volumes
 
@@ -137,16 +132,15 @@ Texts and Arguments on Arthâpatti*. Bloomsbury Academic Publishing,
 
 #### Peer-Reviewed Encyclopedia Entries and Annotated Bibliographies
 
-+ 2021. "Pramāṇa." Invited contribution to *The Encyclopedia of
++ 2021\. "Pramāṇa." Invited contribution to *The Encyclopedia of
 Philosophy of Religion*. Vol IV. Stewart Goetz and Charles Taliaferro,
 eds. Wiley-Blackwell.
 
-+ 2016, 2020. "The Literal/Non-Literal Distinction in Indian Philosophy."
++ 2016, 2020\. "The Literal/Non-Literal Distinction in Indian Philosophy."
 *The Stanford Encyclopedia of Philosophy*. Edward N. Zalta, ed. First
 published Nov 26, 2016. Substantive revision Dec 3, 2020. <https://plato.stanford.edu/archives/sum2021/entries/literal-nonliteral-india/>
 
-+ 2016, 2023. With Matthew R. Dasti. "Epistemology (*Pramāṇa*s)," *Oxford
-Bibliographies Online*, Hinduism. Substantive revision 2023. (50% co-author contribution).
++ 2016, 2023\. With Matthew R. Dasti. "Epistemology (*Pramāṇa*s)," *Oxford Bibliographies Online*, Hinduism. Substantive revision 2023. (50% co-author contribution).
 
 ### Works in Progress
 
@@ -173,39 +167,31 @@ Contemporary Introduction." *Philosophy East and West* 69 (3).
 doi:10.1353/pew.2019.0075.
 
 + 2018\. Roy Tzohar, "A Yogācāra Buddhist Theory of Metaphor." *Notre Dame
-Philosophical Reviews*. August 2018.
-<https://ndpr.nd.edu/reviews/a-yogacara-buddhist-theory-of-metaphor/>
+Philosophical Reviews*. August 2018. <https://ndpr.nd.edu/reviews/a-yogacara-buddhist-theory-of-metaphor/>
 
 + 2015\. Amber Carpenter, "Indian Buddhist Philosophy." *Philosophy East
 and West* 64 (4): 1000–3.
 
-+ 2013\. Christopher G. Framarin, "Desire and Motivation in Indian
-Philosophy, Routledge Hindu Studies." *Journal of the American Oriental
-Society* 133 (1): 160–62.
++ 2013\. Christopher G. Framarin, "Desire and Motivation in Indian Philosophy, Routledge Hindu Studies." *Journal of the American Oriental Society* 133 (1): 160–62.
 
 #### Public Philosophy
 
 + 2021–2024. Host, *New Books Network (Language Channel, Philosophy
 Channel)*, Long-form interviews focusing on recent scholarly volumes in
-language and in philosophy.
-<https://newbooksnetwork.com/category/politics-society/language/>,
-<https://newbooksnetwork.com/category/politics-society/philosophy>
+language and in philosophy. <https://newbooksnetwork.com/category/politics-society/language/>, <https://newbooksnetwork.com/category/politics-society/philosophy>
 
 + 2020–2023. Author and Host, *Sutras & Stuff Podcast*, Short-form
 episodes focusing on a single topic in premodern Indian philosophy and
 their relevance to the modern day. (On haitus.)
 
 + 2021\. "Skeptics and Yogis: Ancient Indian Wisdom is Broader and Deeper
-Than You Might Think," *Culturico*, August 2, 2021
-<https://culturico.com/2021/08/02/skeptics-and-yogis-ancient-indian-wisdom-is-broader-and-deeper-than-you-might-think/>
+Than You Might Think," *Culturico*, August 2, 2021 <https://culturico.com/2021/08/02/skeptics-and-yogis-ancient-indian-wisdom-is-broader-and-deeper-than-you-might-think/>
 
 + 2020\. "In Nyāya philosophy, only some debates are worth having,"
-*Psyche,* December 3, 2020.
-<https://psyche.co/ideas/in-nyaya-philosophy-only-some-debates-are-worth-having>
+*Psyche,* December 3, 2020. <https://psyche.co/ideas/in-nyaya-philosophy-only-some-debates-are-worth-having>
 
 + 2020\. "The Aesthetic Ingredients of Holiday Romance," PEA Soup,
-November 30, 2020.
-<http://peasoup.us/2020/11/the-aesthetic-ingredients-of-holiday-romance>
+November 30, 2020. <http://peasoup.us/2020/11/the-aesthetic-ingredients-of-holiday-romance>
 
 #### Refereed Conference Papers
 
