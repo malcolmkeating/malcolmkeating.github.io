@@ -15,10 +15,28 @@ layout: default
 <div id="main" role="main">
   {% include sidebar.html %}
 
-  <div class="archive">
+  <!-- Commenting out list of posts
+	  
+	  <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
-    {% endunless %}
+    {% endunless %}-->
+	
+	
+    <!-- Month/Year Archive Section -->
+       <h2>Archive by Month</h2>
+       <ul>
+         {% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%B %Y'" %}
+         {% for yearMonth in postsByYearMonth %}
+           <li>
+             <a href="/archive/#{{ yearMonth.name | slugify }}">
+               {{ yearMonth.name }} ({{ yearMonth.size }} posts)
+             </a>
+           </li>
+         {% endfor %}
+       </ul>
+       <!-- end archive section -->
+	   
     {{ content }}
   </div>
 </div>
