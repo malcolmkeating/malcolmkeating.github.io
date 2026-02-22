@@ -129,14 +129,11 @@ Texts and Arguments on Arthâpatti*. Bloomsbury Academic Publishing,
 
 #### Conference Proceedings
 
-+ "The Self Is a Sky-Flower: Kumārila and Diṅnāga on Non-Referring Terms."
-In *Sister Nivedita's Interpretation of Swami Vivekananda and
-Cross-Cultural Multidisciplinary Philosophy*, edited by Durga Basu,
-97–121. Kolkata: Ramakrishna Mission Institute of Culture.
++ 2019. "The Self Is a Sky-Flower: Kumārila and Diṅnāga on Non-Referring Terms." In *Sister Nivedita's Interpretation of Swami Vivekananda and Cross-Cultural Multidisciplinary Philosophy*, edited by Durga Basu, 97–121. Kolkata: Ramakrishna Mission Institute of Culture.
 
 #### Forthcoming Articles in Edited Volumes
 
-+ Accepted (under contract). "The Metaphysics of Similarity in Kumārila Bhaṭṭa's *Ślokavārttika*." In a festschrift for ShashiPrabha Kumar, edited by Agnieszka Rostalska and Purushottama Billimoria. Springer.
++ Forthcoming. July 2026. “The Metaphysics of Similarity in Kumārila Bhaṭṭa’s *Ślokavārttika*.” In *Conceptualizing Categories: Texts and Context in Indian Philosophy: Festschrift in Honor of Professor ShashiPrabha Kumar*, edited by Purushottama Billimoria, Agnieszka Rostalska, Devendra Singh, Renu K. Sharma. Springer. https://link.springer.com/book/9783032162212
 
 #### Peer-Reviewed Encyclopedia Entries and Annotated Bibliographies
 
@@ -149,21 +146,17 @@ eds. Wiley-Blackwell.
 published Nov 26, 2016. Substantive revision Dec 3, 2020. <https://plato.stanford.edu/archives/sum2021/entries/literal-nonliteral-india/>
 
 + 2016, 2023. With Matthew R. Dasti. "Epistemology (*Pramāṇa*s)," *Oxford
-Bibliographies Online*, Hinduism. Substantive revision 2023. (50%
-co-author contribution).
+Bibliographies Online*, Hinduism. Substantive revision 2023. (50% co-author contribution).
 
-#### Works in Progress
+### Works in Progress
 
-+ Proposal under review (Wisdom Publications). Supporting editor with
-Charles Goodman, primary editor. *Buddhist Philosophy and Its Critics*:
-*An Anthology of South Asian Sources*. Several joint translations in
-progress (50% translator contribution).
++ Proposal under review (Wisdom Publications). Coeditor with Charles Goodman. *Buddhist Philosophy and Its Critics: An Anthology of South Asian Sources*. Several joint and single translations in progress.
 
 + Under review. "Kumārila Bhaṭṭa." *Oxford Bibliographies Online*,
 Hinduism.
 
 + Series editor (Bloomsbury Academic Publishing). *Reading Primary Sources
-in Asian Philosophy*. Under contract. Four volumes in preparation.
+in Asian Philosophy*. Two volumes in preparation, two under review.
 
 #### Book Reviews
 
