@@ -29,14 +29,14 @@ I provide two main services:
 
 **Copyediting** is a detailed manuscript analysis in which I suggest and implement revisions for grammaticality, clarity, and cohesiveness. I can also ensure your manuscript follows a publisher's house style. I have three levels of copyediting available, depending on the extent to which I intervene in the writing style and structure of the manuscript.
 
-+ *Light copyediting* fixes errors in grammar and spelling, ensures consistency within document and with style guide
-+ *Medium copyediting* is light copyediting plus *identification* of infelicities in language and cohesiveness
-+ *Heavy copyediting* is light copyediting plus *proposing revisions* in infelicities in language and cohesiveness
++ *Light copyediting* fixes errors in grammar and spelling, and it ensures consistency within the manuscript and with a style guide.
++ *Medium copyediting* is light copyediting plus *identification* of infelicities in language and cohesiveness.
++ *Heavy copyediting* is light copyediting plus *proposing revisions* to correct infelicities in language and cohesiveness.
 
 If you have questions about what's right for your manuscript, use the form below to get in touch.
 
 ### Get in touch ###
 
-During summers, I work selectively with academic clients in need of copyediting or developmental editing. If you're interested in working with me, fill out a form with information about your project(s) and timeline. Please note that I do not edit PhD dissertations.
+*Beginning in late May 2026*, I will be taking on academic clients in need of copyediting or developmental editing. If you're interested in working with me, fill out a form with information about your project(s) and timeline. Please note that I do not edit PhD dissertations.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfKgqM07OHUJqGEv9bevsaGWNZeB8Ic3-GmiHt_Tb1hlzKQKQ/viewform?embedded=true" width="640" height="1974" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
