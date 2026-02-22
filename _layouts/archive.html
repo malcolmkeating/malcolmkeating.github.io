@@ -24,7 +24,8 @@ layout: default
 	
 	
     <!-- Month/Year Archive Section -->
-       <h2>Archive by Month</h2>
+		  <!-- commented out until can figure out how to create archive pages by month
+       <h2>Archives by Month</h2>
        <ul>
          {% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%B %Y'" %}
          {% for yearMonth in postsByYearMonth %}
