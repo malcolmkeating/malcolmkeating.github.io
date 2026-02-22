@@ -141,12 +141,16 @@ Texts and Arguments on Arthâpatti*. Bloomsbury Academic Publishing,
 Philosophy of Religion*. Vol IV. Stewart Goetz and Charles Taliaferro,
 eds. Wiley-Blackwell.
 
-+ 2016, 2020. "The Literal/Non-Literal Distinction in Indian Philosophy."
++ 2016, 2020\. "The Literal/Non-Literal Distinction in Indian Philosophy."
 *The Stanford Encyclopedia of Philosophy*. Edward N. Zalta, ed. First
 published Nov 26, 2016. Substantive revision Dec 3, 2020. <https://plato.stanford.edu/archives/sum2021/entries/literal-nonliteral-india/>
 
+<<<<<<< HEAD
 + 2016, 2023. With Matthew R. Dasti. "Epistemology (*Pramāṇa*s)," *Oxford
 Bibliographies Online*, Hinduism. Substantive revision 2023. (50% co-author contribution).
+=======
++ 2016, 2023\. With Matthew R. Dasti. "Epistemology (*Pramāṇa*s)," *Oxford Bibliographies Online*, Hinduism. Substantive revision 2023. (50% co-author contribution).
+>>>>>>> 337023713a76a45cf1e4422d0f70f8d67ec14ca9
 
 ### Works in Progress
 
@@ -173,39 +177,31 @@ Contemporary Introduction." *Philosophy East and West* 69 (3).
 doi:10.1353/pew.2019.0075.
 
 + 2018\. Roy Tzohar, "A Yogācāra Buddhist Theory of Metaphor." *Notre Dame
-Philosophical Reviews*. August 2018.
-<https://ndpr.nd.edu/reviews/a-yogacara-buddhist-theory-of-metaphor/>
+Philosophical Reviews*. August 2018. <https://ndpr.nd.edu/reviews/a-yogacara-buddhist-theory-of-metaphor/>
 
 + 2015\. Amber Carpenter, "Indian Buddhist Philosophy." *Philosophy East
 and West* 64 (4): 1000–3.
 
-+ 2013\. Christopher G. Framarin, "Desire and Motivation in Indian
-Philosophy, Routledge Hindu Studies." *Journal of the American Oriental
-Society* 133 (1): 160–62.
++ 2013\. Christopher G. Framarin, "Desire and Motivation in Indian Philosophy, Routledge Hindu Studies." *Journal of the American Oriental Society* 133 (1): 160–62.
 
 #### Public Philosophy
 
 + 2021–2024. Host, *New Books Network (Language Channel, Philosophy
 Channel)*, Long-form interviews focusing on recent scholarly volumes in
-language and in philosophy.
-<https://newbooksnetwork.com/category/politics-society/language/>,
-<https://newbooksnetwork.com/category/politics-society/philosophy>
+language and in philosophy. <https://newbooksnetwork.com/category/politics-society/language/>, <https://newbooksnetwork.com/category/politics-society/philosophy>
 
 + 2020–2023. Author and Host, *Sutras & Stuff Podcast*, Short-form
 episodes focusing on a single topic in premodern Indian philosophy and
 their relevance to the modern day. (On haitus.)
 
 + 2021\. "Skeptics and Yogis: Ancient Indian Wisdom is Broader and Deeper
-Than You Might Think," *Culturico*, August 2, 2021
-<https://culturico.com/2021/08/02/skeptics-and-yogis-ancient-indian-wisdom-is-broader-and-deeper-than-you-might-think/>
+Than You Might Think," *Culturico*, August 2, 2021 <https://culturico.com/2021/08/02/skeptics-and-yogis-ancient-indian-wisdom-is-broader-and-deeper-than-you-might-think/>
 
 + 2020\. "In Nyāya philosophy, only some debates are worth having,"
-*Psyche,* December 3, 2020.
-<https://psyche.co/ideas/in-nyaya-philosophy-only-some-debates-are-worth-having>
+*Psyche,* December 3, 2020. <https://psyche.co/ideas/in-nyaya-philosophy-only-some-debates-are-worth-having>
 
 + 2020\. "The Aesthetic Ingredients of Holiday Romance," PEA Soup,
-November 30, 2020.
-<http://peasoup.us/2020/11/the-aesthetic-ingredients-of-holiday-romance>
+November 30, 2020. <http://peasoup.us/2020/11/the-aesthetic-ingredients-of-holiday-romance>
 
 #### Refereed Conference Papers
 

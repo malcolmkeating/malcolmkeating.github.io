@@ -26,7 +26,7 @@ redirect_from:
 
 * Copyeditor (subcontractor), Flatpage editorial agency (July 2023 – November 2023)
   * Edited academic book projects as part of a subcontracting team, querying issues for publishers when necessary.
-  * Projects included editing citation styles for legal texts and editing Bloomberg Connects mobile app content for art museusms.
+  * Projects included editing citation styles for legal texts and editing Bloomberg Connects mobile app content for art museums.
   
 * Book Editor, Routledge, Bloomsbury Academic
   * Coedited festschrift volume collecting academic essays in tribute of a senior philosopher.
