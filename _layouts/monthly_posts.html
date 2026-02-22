@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<h1>Blog Posts by Month</h1>
+
+{% assign posts_by_month = site.posts | group_by_exp:"post", "post.date | date: '%B %Y'" %}
+
+<ul>
+  {% for month in posts_by_month %}
+    <li>
+      {{ month.name }} ({{ month.size }} post{% if month.size != 1 %}s{% endif %})
+    </li>
+  {% endfor %}
+</ul>
