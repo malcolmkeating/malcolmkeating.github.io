@@ -7,7 +7,7 @@ permalink: /editing/
 
 I work with academic writers to ensure their work is grammatically correct and polished. My editing addresses both stylistic details and argumentative rigor.
 
-Not only do I have professional editing experience and training but I'm also an academic. I've worked on everything from blog posts and book reviews to journal articles, edited collections, and monographs. I have experience helping non-native English speakers polish their writing—without losing their authentic voices.
+Not only do I have professional editing experience and training, but I'm also an academic. I've worked on everything from blog posts and book reviews to journal articles, edited collections, and monographs. I have experience helping non-native English speakers polish their writing—without losing their authentic voices.
 
 #### Qualifications ####
 + Copyediting certificate in progress with UC San Diego Extended Studies
