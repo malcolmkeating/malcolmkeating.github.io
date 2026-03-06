@@ -8,53 +8,62 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+### Editing Experience ###
   
 * Copyeditor, APA Blog (January 2026 – present)
-  * Edited blog posts for American Philosophical Association WordPress blog for clarity, correctness, and cohesiveness.
-  * Responsible for scheduling blog posts using Oasis Workflow plugin.
+  *	Copyedit blog posts for the American Philosophical Association blog for grammar and style.
+  *	Communicate with academic authors and editors to ensure integrity of edits and timeliness of publication.
+  *	Revise existing blog style guide for internal consistency and suitability.
 
 * Series Editor, Bloomsbury Academic (July 2023 – present)
-  * Led an editorial board in overseeing academic submissions to a four-volume book series, managing board member tasks and generating reports for authors.
-  * Worked with academic authors to revise and refine their submissions, ensuring their contributions met publisher house style and conveyed abstruse philosophical ideas from Asian philosophy intelligibly and accessibly for undergraduate readers.
-  * Managed the development of a four-volume book series, creating an initial call for submissions, reviewing submissions with subject-matter experts, determining a project timeline in collaboration with publishers, and preparing manuscripts for submission. 
+  * Produce a four-volume book series, managing initial submissions, review, and manuscript preparation. 
+  * Lead editorial board in overseeing submissions and managing communications with authors.
+  * Edit submissions to ensure correctness, clarity, and consistency with publisher house style.
 
 * Book Review Editor, *Philosophy East and West* (May 2020 – August 2023)
-  * In collaboration with journal publisher and editorial team, solicited new book reviews for inclusion in the journal, increasing the number and frequency of reviews published for South Asian philosophy.
-  * Worked closely with book review authors to revise initial contributions, improving argumentation, clarity, and structure.
-  * Performed close copyediting passes prior to submission to editorial team to ensure consistency with house style.
-  * Frequently worked with non-native speakers of English to ensure idiomaticity of language and clarity of thought without losing the author's authentic voice.
+  * Solicited new book reviews, increasing the number and frequency of South Asian philosophy reviews.
+  * Revised book review contributions to improve argumentation, clarity, and structure.
+  * Performed copyediting passes for correctness and consistency with house style.
+  * Worked with non-native English speakers to ensure clarity while keeping the author's voice intact.
 
 * Copyeditor (subcontractor), Flatpage editorial agency (July 2023 – November 2023)
-  * Edited academic book projects as part of a subcontracting team, querying issues for publishers when necessary.
-  * Projects included editing citation styles for legal texts and editing Bloomberg Connects mobile app content for art museums.
-  
-* Book Editor, Routledge, Bloomsbury Academic
-  * Coedited festschrift volume collecting academic essays in tribute of a senior philosopher.
-  * Responsible for initial invitations, developmental editing, and copyediting stages prior to submission to editorial team.
+  * Copyedited academic book projects, including citation styles for legal texts.
+  * Copyedited Bloomberg Connects mobile app content for art museums, ensuring consistency and a cohesive user experience.
 
-Skills
-======
+### Academic and Authorial Experience ###
+* Associate Professor, Smith College, Massachusetts, USA (January 2024 – present)
+  * Design and teach courses focusing on philosophy of language, aesthetics, and Indian philosophy.
 
-### Editing ###
-* Copyediting, developmental editing, project management
+* Associate Professor, Yale-NUS College, Singapore (2015 – 2023)
+  * Designed and taught courses focusing on philosophy of language and Indian philosophy.
+  * Designed and taught the senior thesis writing seminar.
 
-### Languages (natural and programming) ###
-* English (native), Spanish (intermediate reading/speaking/writing), Sanskrit (advanced)
-* Markdown (basic competence)
-* Python 3 (basic competence)
+* Book Editor and Author
+  * Author of three academic monographs (Hackett Publishing 2025, Oxford University Press 2024, Bloomsbury Academic Publishing 2019)
+  * Editor or coeditor of two academic collections (Routledge 2024, Bloomsbury Academic Publishing 2020)
 
-Tools
-======
-### Word processing and editing ###
-* MS Word, LaTeX
-* Zotero citation manager, BibTeX
+### Education and Training ###
+* UC San Diego Extended Studies
+  * Copyediting Certificate in progress
+  * Focus on Chicago Manual of Style
+  * One course remaining, completion date May 2026
 
-### Other technical tools ###
-* Visual Basic for Applications (VBA)
-* WordPress
-* GitHub, Sourcetree
+* PhD, University of Texas at Austin, 2015
+  * Philosophy, with a focus on language and Sanskrit
 
-Certifications and coursework
-======
-* Copyediting Certificate, UC San Diego Division of Extended Studies (in progress)
-* Introduction to Python 3 Programming, Utah Valley University
+* MA, University of Missouri – St. Louis, 2006
+  * Philosophy, with a focus on language and mind
+
+* BA, Grove City College, 2000
+  * English literature and Spanish language double major 
+
+### Tools and Languages ###
+* MS Word, LaTeX, Visual Basic for Applications (VBA), WordPress
+* Markdown, HTML (basic)
+* Advanced Sanskrit competence
+
+### Professional Memberships ###
+* American Philosophical Association
+* Editorial Freelancer’s Association
+
