@@ -20,15 +20,12 @@ Email: <mkeating@smith.edu>
 
 ### Current Academic Position
 
-Associate Professor of Philosophy, Smith College, USA, August
-2025–present
+Associate Professor of Philosophy, Smith College, USA, July 2024–present
 
 ### Previous Academic Positions
 
-+ Leverhulme Visiting Professor, University of Glasgow, August
-2025–December 2025
-+ Visiting Associate Professor of Philosophy, Smith College, USA, January
-2024–July 2024
++ Leverhulme Visiting Professor, University of Glasgow, August 2025–December 2025
++ Visiting Associate Professor of Philosophy, Smith College, USA, January 2024–June 2024
 + Associate Professor of Philosophy, Yale-NUS College, Singapore, June
 2022–February 2024
 + Assistant Professor of Philosophy, Yale-NUS College, Singapore, June
