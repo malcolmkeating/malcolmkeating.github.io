@@ -92,13 +92,10 @@ Philosophy*. 45 (5): 911–38.
 
 + 2017\. "Metonymy and Metaphor as Verbal Postulation: The Epistemic
 Status of Non-Literal Speech in Indian Philosophy." *Journal of World
-Philosophies*. 2 (1).
-<https://scholarworks.iu.edu/iupjournals/index.php/jwp/article/view/923>.
+Philosophies*. 2 (1). <https://scholarworks.iu.edu/iupjournals/index.php/jwp/article/view/923>.
 
 + 2017\. With Elisa Freschi. "How Do We Gather Knowledge through
-Language?" *Journal of World Philosophies*. 2 (1).
-<https://scholarworks.iu.edu/iupjournals/index.php/jwp/article/view/921>
-(50% co-author contribution).
+Language?" *Journal of World Philosophies*. 2 (1). <https://scholarworks.iu.edu/iupjournals/index.php/jwp/article/view/921> (50% co-author contribution).
 
 + 2015\. "Thinking about Embedded Metaphors*." Journal of Pragmatics*. 88:
 19–26.
@@ -142,16 +139,14 @@ eds. Wiley-Blackwell.
 *The Stanford Encyclopedia of Philosophy*. Edward N. Zalta, ed. First
 published Nov 26, 2016. Substantive revision Dec 3, 2020. <https://plato.stanford.edu/archives/sum2021/entries/literal-nonliteral-india/>
 
-<<<<<<< HEAD
 + 2016, 2023. With Matthew R. Dasti. "Epistemology (*Pramāṇa*s)," *Oxford
 Bibliographies Online*, Hinduism. Substantive revision 2023. (50% co-author contribution).
-=======
+
 + 2016, 2023\. With Matthew R. Dasti. "Epistemology (*Pramāṇa*s)," *Oxford Bibliographies Online*, Hinduism. Substantive revision 2023. (50% co-author contribution).
->>>>>>> 337023713a76a45cf1e4422d0f70f8d67ec14ca9
 
 ### Works in Progress
 
-+ Proposal under review (Wisdom Publications). Coeditor with Charles Goodman. *Buddhist Philosophy and Its Critics: An Anthology of South Asian Sources*. Several joint and single translations in progress.
++ PCoeditor with Charles Goodman. *Buddhist Philosophy and Its Critics: An Anthology of South Asian Sources*. Several joint and single translations in progress.
 
 + Under review. "Kumārila Bhaṭṭa." *Oxford Bibliographies Online*,
 Hinduism.
