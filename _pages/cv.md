@@ -249,12 +249,12 @@ Philosophy.
 
 #### Invited Talks
 
-+ November 13, 2025. "Selves and Sky-flowers: Kumārila Bhaṭṭa on Metaphor
-and Nonexistents," University of Oxford, Workshop in Ancient Philosophy.
++ INVITED TALKS
+March 4, 2026. “Propositions in Indian Philosophy: Revisiting a Dogma.” Vassar College, Philosopher’s Holiday Lecture: Jamie Nisse Greenberg Memorial Lecture.
 
-+ November 12, 2025. "Different Words with the Same Meaning: Kumārila
-Bhaṭṭa on Synonymy," Oxford Centre for Hindu Studies, Indian philosophy
-seminar.
++ November 13, 2025. "Selves and Sky-flowers: Kumārila Bhaṭṭa on Metaphor and Nonexistents," University of Oxford, Workshop in Ancient Philosophy.
+
++ November 12, 2025. "Different Words with the Same Meaning: Kumārila Bhaṭṭa on Synonymy," Oxford Centre for Hindu Studies, Indian philosophy seminar.
 
 + November 10, 2025. "Kumārila on the First-personal Pronoun,"
 Aristotelian Society, London.
