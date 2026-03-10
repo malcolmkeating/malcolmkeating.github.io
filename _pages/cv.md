@@ -249,8 +249,7 @@ Philosophy.
 
 #### Invited Talks
 
-+ INVITED TALKS
-March 4, 2026. “Propositions in Indian Philosophy: Revisiting a Dogma.” Vassar College, Philosopher’s Holiday Lecture: Jamie Nisse Greenberg Memorial Lecture.
++ March 4, 2026. “Propositions in Indian Philosophy: Revisiting a Dogma.” Vassar College, Philosopher’s Holiday Lecture: Jamie Nisse Greenberg Memorial Lecture.
 
 + November 13, 2025. "Selves and Sky-flowers: Kumārila Bhaṭṭa on Metaphor and Nonexistents," University of Oxford, Workshop in Ancient Philosophy.
 
