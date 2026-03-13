@@ -429,6 +429,10 @@ Philosophers and Philosophies.
 + PHI 258: Topics in Philosophy of Language: Metaphor
 + PHI 320: Fiction
 
+#### University of Glasgow
+
++ PHIL4070: Classical Indian Philosophy: Language, Knowledge, and Reality (designed module with instructor of record and gave multiple lectures in Semester 2, 2025)
+
 #### Yale-NUS College
 
 *Undergraduate courses*
