@@ -44,10 +44,9 @@ redirect_from:
   * Editor or coeditor of two academic collections (Routledge 2024, Bloomsbury Academic Publishing 2020)
 
 ### Education and Training ###
-* UC San Diego Extended Studies
-  * Copyediting Certificate in progress
+* UC San Diego Extended Studies, March 2026
+  * Copyediting Certificate
   * Focus on Chicago Manual of Style
-  * One course remaining, completion date May 2026
 
 * PhD, University of Texas at Austin, 2015
   * Philosophy, with a focus on language and Sanskrit
