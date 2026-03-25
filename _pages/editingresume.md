@@ -46,7 +46,7 @@ redirect_from:
 ### Education and Training ###
 * UC San Diego Extended Studies, March 2026
   * Copyediting Certificate
-  * Focus on Chicago Manual of Style
+  * Focus on _Chicago Manual of Style_
 
 * PhD, University of Texas at Austin, 2015
   * Philosophy, with a focus on language and Sanskrit
