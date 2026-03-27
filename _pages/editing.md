@@ -34,9 +34,3 @@ I provide two main services:
 + *Heavy copyediting* is light copyediting plus *proposing revisions* to correct infelicities in language and cohesiveness.
 
 If you have questions about what's right for your manuscript, use the form below to get in touch.
-
-### Get in touch ###
-
-*Beginning in late May 2026*, I will be taking on academic clients in need of copyediting or developmental editing. If you're interested in working with me, fill out a form with information about your project(s) and timeline.
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfKgqM07OHUJqGEv9bevsaGWNZeB8Ic3-GmiHt_Tb1hlzKQKQ/viewform?embedded=true" width="640" height="1974" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
