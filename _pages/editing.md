@@ -10,7 +10,7 @@ I work with academic writers to ensure their work is grammatically correct and p
 Not only do I have professional editing experience and training, but I'm also an academic. I've worked on everything from blog posts and book reviews to journal articles, edited collections, and monographs. I have experience helping non-native English speakers polish their writing—without losing their authentic voices.
 
 #### Qualifications ####
-+ Copyediting certificate in progress with UC San Diego Extended Studies
++ Copyediting certificate from UC San Diego Extended Studies
 + Extensive editorial experience with academic articles and books
 + PhD in philosophy, focusing on language
 + Experience with foreign languages and diacritical marks
@@ -37,6 +37,6 @@ If you have questions about what's right for your manuscript, use the form below
 
 ### Get in touch ###
 
-*Beginning in late May 2026*, I will be taking on academic clients in need of copyediting or developmental editing. If you're interested in working with me, fill out a form with information about your project(s) and timeline. Please note that I do not edit PhD dissertations.
+*Beginning in late May 2026*, I will be taking on academic clients in need of copyediting or developmental editing. If you're interested in working with me, fill out a form with information about your project(s) and timeline.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfKgqM07OHUJqGEv9bevsaGWNZeB8Ic3-GmiHt_Tb1hlzKQKQ/viewform?embedded=true" width="640" height="1974" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
